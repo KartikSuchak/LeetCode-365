@@ -29,4 +29,8 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [2432-number-of-zero-filled-subarrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/2432-number-of-zero-filled-subarrays) |
+## String
+|  |
+| ------- |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/2346-largest-3-same-digit-number-in-string) |
 <!---LeetCode Topics End-->
