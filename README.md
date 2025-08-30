@@ -37,6 +37,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/KartikSuchak/LeetCode-365/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSuchak/LeetCode-365/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/0485-max-consecutive-ones) |
 | [0940-fruit-into-baskets](https://github.com/KartikSuchak/LeetCode-365/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1019-squares-of-a-sorted-array) |
@@ -76,6 +77,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/KartikSuchak/LeetCode-365/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSuchak/LeetCode-365/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1628-count-submatrices-with-all-ones) |
 ## Matrix
