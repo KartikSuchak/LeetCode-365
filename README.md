@@ -13,6 +13,7 @@ I use this space to track my progress and organize my solutions.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/KartikSuchak/LeetCode-365/tree/master/0007-reverse-integer) |
 | [0326-power-of-three](https://github.com/KartikSuchak/LeetCode-365/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KartikSuchak/LeetCode-365/tree/master/0342-power-of-four) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/2432-number-of-zero-filled-subarrays) |
