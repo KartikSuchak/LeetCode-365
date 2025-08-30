@@ -36,6 +36,7 @@ I use this space to track my progress and organize my solutions.
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/KartikSuchak/LeetCode-365/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/KartikSuchak/LeetCode-365/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSuchak/LeetCode-365/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/0485-max-consecutive-ones) |
@@ -87,12 +88,14 @@ I use this space to track my progress and organize my solutions.
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/KartikSuchak/LeetCode-365/tree/master/0036-valid-sudoku) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1628-count-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/KartikSuchak/LeetCode-365/tree/master/0036-valid-sudoku) |
 | [0940-fruit-into-baskets](https://github.com/KartikSuchak/LeetCode-365/tree/master/0940-fruit-into-baskets) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sliding Window
