@@ -18,6 +18,7 @@ I use this space to track my progress and organize my solutions.
 | [0326-power-of-three](https://github.com/KartikSuchak/LeetCode-365/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KartikSuchak/LeetCode-365/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/KartikSuchak/LeetCode-365/tree/master/0412-fizz-buzz) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/KartikSuchak/LeetCode-365/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KartikSuchak/LeetCode-365/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Recursion
@@ -38,6 +39,7 @@ I use this space to track my progress and organize my solutions.
 | [0940-fruit-into-baskets](https://github.com/KartikSuchak/LeetCode-365/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1019-squares-of-a-sorted-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/KartikSuchak/LeetCode-365/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1603-running-sum-of-1d-array) |
 | [1628-count-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1628-count-submatrices-with-all-ones) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/2316-count-hills-and-valleys-in-an-array) |
