@@ -16,6 +16,7 @@ I use this space to track my progress and organize my solutions.
 | [0007-reverse-integer](https://github.com/KartikSuchak/LeetCode-365/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/KartikSuchak/LeetCode-365/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/KartikSuchak/LeetCode-365/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/KartikSuchak/LeetCode-365/tree/master/0172-factorial-trailing-zeroes) |
 | [0326-power-of-three](https://github.com/KartikSuchak/LeetCode-365/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KartikSuchak/LeetCode-365/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/KartikSuchak/LeetCode-365/tree/master/0412-fizz-buzz) |
