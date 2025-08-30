@@ -1,2 +1,2 @@
-# Leetcode-365
+# LeetCode-365
 Daily Leetcode problem solving
