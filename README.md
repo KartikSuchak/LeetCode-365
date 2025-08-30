@@ -1,4 +1,4 @@
-# 🏹 LeetCode Daily Practice
+## 🏹 LeetCode Daily Practice
 
 This is my **repository** for solving **LeetCode problems daily**.  
 I use this space to track my progress and organize my solutions.
