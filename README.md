@@ -36,6 +36,7 @@ I use this space to track my progress and organize my solutions.
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/KartikSuchak/LeetCode-365/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/KartikSuchak/LeetCode-365/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/KartikSuchak/LeetCode-365/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSuchak/LeetCode-365/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -63,6 +64,7 @@ I use this space to track my progress and organize my solutions.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/KartikSuchak/LeetCode-365/tree/master/0035-search-insert-position) |
 | [3790-fruits-into-baskets-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
