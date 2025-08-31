@@ -151,4 +151,8 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KartikSuchak/LeetCode-365/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/KartikSuchak/LeetCode-365/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
