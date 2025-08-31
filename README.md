@@ -43,6 +43,7 @@ I use this space to track my progress and organize my solutions.
 | [0088-merge-sorted-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSuchak/LeetCode-365/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/KartikSuchak/LeetCode-365/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/KartikSuchak/LeetCode-365/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0605-can-place-flowers) |
@@ -101,6 +102,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/KartikSuchak/LeetCode-365/tree/master/0036-valid-sudoku) |
+| [0169-majority-element](https://github.com/KartikSuchak/LeetCode-365/tree/master/0169-majority-element) |
 | [0940-fruit-into-baskets](https://github.com/KartikSuchak/LeetCode-365/tree/master/0940-fruit-into-baskets) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sliding Window
@@ -129,6 +131,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/KartikSuchak/LeetCode-365/tree/master/0169-majority-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Memoization
@@ -138,9 +141,14 @@ I use this space to track my progress and organize my solutions.
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/KartikSuchak/LeetCode-365/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0605-can-place-flowers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/KartikSuchak/LeetCode-365/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
