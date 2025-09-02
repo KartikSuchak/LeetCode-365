@@ -39,6 +39,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KartikSuchak/LeetCode-365/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KartikSuchak/LeetCode-365/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/KartikSuchak/LeetCode-365/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/KartikSuchak/LeetCode-365/tree/master/0066-plus-one) |
@@ -74,6 +75,7 @@ I use this space to track my progress and organize my solutions.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KartikSuchak/LeetCode-365/tree/master/0035-search-insert-position) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3790-fruits-into-baskets-ii) |
