@@ -38,6 +38,7 @@ I use this space to track my progress and organize my solutions.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KartikSuchak/LeetCode-365/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/KartikSuchak/LeetCode-365/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/KartikSuchak/LeetCode-365/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/KartikSuchak/LeetCode-365/tree/master/0066-plus-one) |
@@ -132,6 +133,7 @@ I use this space to track my progress and organize my solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KartikSuchak/LeetCode-365/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/KartikSuchak/LeetCode-365/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0344-reverse-string) |
@@ -159,6 +161,7 @@ I use this space to track my progress and organize my solutions.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KartikSuchak/LeetCode-365/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0605-can-place-flowers) |
 ## Divide and Conquer
 |  |
