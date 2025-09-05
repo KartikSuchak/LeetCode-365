@@ -45,6 +45,7 @@ I use this space to track my progress and organize my solutions.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KartikSuchak/LeetCode-365/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/KartikSuchak/LeetCode-365/tree/master/0036-valid-sudoku) |
+| [0053-maximum-subarray](https://github.com/KartikSuchak/LeetCode-365/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/KartikSuchak/LeetCode-365/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/KartikSuchak/LeetCode-365/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0088-merge-sorted-array) |
@@ -103,6 +104,7 @@ I use this space to track my progress and organize my solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/KartikSuchak/LeetCode-365/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/KartikSuchak/LeetCode-365/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSuchak/LeetCode-365/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -179,6 +181,7 @@ I use this space to track my progress and organize my solutions.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/KartikSuchak/LeetCode-365/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/KartikSuchak/LeetCode-365/tree/master/0169-majority-element) |
 ## Database
 |  |
