@@ -18,6 +18,7 @@ I use this space to track my progress and organize my solutions.
 | [0070-climbing-stairs](https://github.com/KartikSuchak/LeetCode-365/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/KartikSuchak/LeetCode-365/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/KartikSuchak/LeetCode-365/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/KartikSuchak/LeetCode-365/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KartikSuchak/LeetCode-365/tree/master/0342-power-of-four) |
@@ -101,6 +102,7 @@ I use this space to track my progress and organize my solutions.
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/KartikSuchak/LeetCode-365/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/KartikSuchak/LeetCode-365/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/KartikSuchak/LeetCode-365/tree/master/0495-teemo-attacking) |
 | [3790-fruits-into-baskets-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3790-fruits-into-baskets-ii) |
@@ -212,4 +214,8 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0292-nim-game) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/KartikSuchak/LeetCode-365/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
