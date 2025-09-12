@@ -76,6 +76,7 @@ I use this space to track my progress and organize my solutions.
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1603-running-sum-of-1d-array) |
 | [1628-count-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1628-count-submatrices-with-all-ones) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -140,6 +141,7 @@ I use this space to track my progress and organize my solutions.
 | [0350-intersection-of-two-arrays-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0940-fruit-into-baskets](https://github.com/KartikSuchak/LeetCode-365/tree/master/0940-fruit-into-baskets) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -194,6 +196,7 @@ I use this space to track my progress and organize my solutions.
 | ------- |
 | [0169-majority-element](https://github.com/KartikSuchak/LeetCode-365/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Greedy
 |  |
 | ------- |
