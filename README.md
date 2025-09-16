@@ -20,6 +20,7 @@ I use this space to track my progress and organize my solutions.
 | [0189-rotate-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/KartikSuchak/LeetCode-365/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/KartikSuchak/LeetCode-365/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/KartikSuchak/LeetCode-365/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KartikSuchak/LeetCode-365/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/KartikSuchak/LeetCode-365/tree/master/0412-fizz-buzz) |
@@ -231,6 +232,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/KartikSuchak/LeetCode-365/tree/master/0319-bulb-switcher) |
 ## Game Theory
 |  |
 | ------- |
