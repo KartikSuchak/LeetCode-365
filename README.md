@@ -88,6 +88,7 @@ I use this space to track my progress and organize my solutions.
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3311-ant-on-the-boundary](https://github.com/KartikSuchak/LeetCode-365/tree/master/3311-ant-on-the-boundary) |
 | [3321-type-of-triangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/3321-type-of-triangle) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/KartikSuchak/LeetCode-365/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -123,6 +124,7 @@ I use this space to track my progress and organize my solutions.
 | [0412-fizz-buzz](https://github.com/KartikSuchak/LeetCode-365/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/KartikSuchak/LeetCode-365/tree/master/0495-teemo-attacking) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KartikSuchak/LeetCode-365/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3311-ant-on-the-boundary](https://github.com/KartikSuchak/LeetCode-365/tree/master/3311-ant-on-the-boundary) |
 | [3790-fruits-into-baskets-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -176,6 +178,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1603-running-sum-of-1d-array) |
+| [3311-ant-on-the-boundary](https://github.com/KartikSuchak/LeetCode-365/tree/master/3311-ant-on-the-boundary) |
 ## Two Pointers
 |  |
 | ------- |
