@@ -92,6 +92,7 @@ I use this space to track my progress and organize my solutions.
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3321-type-of-triangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/3330-modify-the-matrix) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/KartikSuchak/LeetCode-365/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3790-fruits-into-baskets-ii) |
