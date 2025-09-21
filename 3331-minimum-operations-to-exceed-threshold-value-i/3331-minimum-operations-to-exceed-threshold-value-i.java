@@ -1,7 +1,6 @@
 class Solution {
     public int minOperations(int[] nums, int k) {
         int m = nums.length;
-        Arrays.sort(nums);
         int count = 0;
 
         for(int i = 0 ; i < m ; i++){
