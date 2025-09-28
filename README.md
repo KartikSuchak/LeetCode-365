@@ -23,6 +23,7 @@ I use this space to track my progress and organize my solutions.
 | [0319-bulb-switcher](https://github.com/KartikSuchak/LeetCode-365/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/KartikSuchak/LeetCode-365/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KartikSuchak/LeetCode-365/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/KartikSuchak/LeetCode-365/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/KartikSuchak/LeetCode-365/tree/master/0412-fizz-buzz) |
 | [0909-stone-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/1086-divisor-game) |
@@ -119,6 +120,7 @@ I use this space to track my progress and organize my solutions.
 | [0035-search-insert-position](https://github.com/KartikSuchak/LeetCode-365/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/KartikSuchak/LeetCode-365/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/KartikSuchak/LeetCode-365/tree/master/0792-binary-search) |
 | [3790-fruits-into-baskets-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
