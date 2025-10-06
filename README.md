@@ -92,6 +92,7 @@ I use this space to track my progress and organize my solutions.
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KartikSuchak/LeetCode-365/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/KartikSuchak/LeetCode-365/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1603-running-sum-of-1d-array) |
 | [1628-count-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1628-count-submatrices-with-all-ones) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KartikSuchak/LeetCode-365/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -190,6 +191,7 @@ I use this space to track my progress and organize my solutions.
 | [0350-intersection-of-two-arrays-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0940-fruit-into-baskets](https://github.com/KartikSuchak/LeetCode-365/tree/master/0940-fruit-into-baskets) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Sliding Window
 |  |
@@ -252,6 +254,7 @@ I use this space to track my progress and organize my solutions.
 | [0169-majority-element](https://github.com/KartikSuchak/LeetCode-365/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/KartikSuchak/LeetCode-365/tree/master/0274-h-index) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Greedy
 |  |
