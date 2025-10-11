@@ -25,6 +25,7 @@ I use this space to track my progress and organize my solutions.
 | [0342-power-of-four](https://github.com/KartikSuchak/LeetCode-365/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/KartikSuchak/LeetCode-365/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/KartikSuchak/LeetCode-365/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0633-sum-of-square-numbers) |
 | [0909-stone-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/1086-divisor-game) |
