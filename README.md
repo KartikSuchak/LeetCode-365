@@ -105,6 +105,7 @@ I use this space to track my progress and organize my solutions.
 | [2181-smallest-index-with-equal-value](https://github.com/KartikSuchak/LeetCode-365/tree/master/2181-smallest-index-with-equal-value) |
 | [2195-time-needed-to-buy-tickets](https://github.com/KartikSuchak/LeetCode-365/tree/master/2195-time-needed-to-buy-tickets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -128,6 +129,7 @@ I use this space to track my progress and organize my solutions.
 | [0344-reverse-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/KartikSuchak/LeetCode-365/tree/master/0412-fizz-buzz) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KartikSuchak/LeetCode-365/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3312-number-of-changing-keys](https://github.com/KartikSuchak/LeetCode-365/tree/master/3312-number-of-changing-keys) |
 ## Binary Search
