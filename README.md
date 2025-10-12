@@ -104,6 +104,7 @@ I use this space to track my progress and organize my solutions.
 | [2144-maximum-difference-between-increasing-elements](https://github.com/KartikSuchak/LeetCode-365/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2181-smallest-index-with-equal-value](https://github.com/KartikSuchak/LeetCode-365/tree/master/2181-smallest-index-with-equal-value) |
 | [2195-time-needed-to-buy-tickets](https://github.com/KartikSuchak/LeetCode-365/tree/master/2195-time-needed-to-buy-tickets) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/KartikSuchak/LeetCode-365/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -130,6 +131,7 @@ I use this space to track my progress and organize my solutions.
 | [0412-fizz-buzz](https://github.com/KartikSuchak/LeetCode-365/tree/master/0412-fizz-buzz) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/KartikSuchak/LeetCode-365/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KartikSuchak/LeetCode-365/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/KartikSuchak/LeetCode-365/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3312-number-of-changing-keys](https://github.com/KartikSuchak/LeetCode-365/tree/master/3312-number-of-changing-keys) |
@@ -337,4 +339,5 @@ I use this space to track my progress and organize my solutions.
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/KartikSuchak/LeetCode-365/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/KartikSuchak/LeetCode-365/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
