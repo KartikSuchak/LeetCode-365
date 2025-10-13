@@ -49,6 +49,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/KartikSuchak/LeetCode-365/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KartikSuchak/LeetCode-365/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
@@ -77,6 +78,7 @@ I use this space to track my progress and organize my solutions.
 | [0217-contains-duplicate](https://github.com/KartikSuchak/LeetCode-365/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/KartikSuchak/LeetCode-365/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/KartikSuchak/LeetCode-365/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0414-third-maximum-number) |
@@ -148,6 +150,7 @@ I use this space to track my progress and organize my solutions.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/KartikSuchak/LeetCode-365/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/KartikSuchak/LeetCode-365/tree/master/0367-valid-perfect-square) |
@@ -244,6 +247,7 @@ I use this space to track my progress and organize my solutions.
 | [0125-valid-palindrome](https://github.com/KartikSuchak/LeetCode-365/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KartikSuchak/LeetCode-365/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0350-intersection-of-two-arrays-ii) |
