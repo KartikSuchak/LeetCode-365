@@ -64,6 +64,7 @@ I use this space to track my progress and organize my solutions.
 | [0036-valid-sudoku](https://github.com/KartikSuchak/LeetCode-365/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/KartikSuchak/LeetCode-365/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/KartikSuchak/LeetCode-365/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/KartikSuchak/LeetCode-365/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/KartikSuchak/LeetCode-365/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -187,6 +188,7 @@ I use this space to track my progress and organize my solutions.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KartikSuchak/LeetCode-365/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/KartikSuchak/LeetCode-365/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/KartikSuchak/LeetCode-365/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSuchak/LeetCode-365/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0909-stone-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0909-stone-game) |
@@ -295,6 +297,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KartikSuchak/LeetCode-365/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/KartikSuchak/LeetCode-365/tree/master/0135-candy) |
 | [0605-can-place-flowers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0605-can-place-flowers) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
