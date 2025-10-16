@@ -74,6 +74,7 @@ I use this space to track my progress and organize my solutions.
 | [0136-single-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/KartikSuchak/LeetCode-365/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/KartikSuchak/LeetCode-365/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/KartikSuchak/LeetCode-365/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/KartikSuchak/LeetCode-365/tree/master/0217-contains-duplicate) |
@@ -268,6 +269,7 @@ I use this space to track my progress and organize my solutions.
 | ------- |
 | [0075-sort-colors](https://github.com/KartikSuchak/LeetCode-365/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/KartikSuchak/LeetCode-365/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/KartikSuchak/LeetCode-365/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KartikSuchak/LeetCode-365/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KartikSuchak/LeetCode-365/tree/master/0242-valid-anagram) |
@@ -356,4 +358,12 @@ I use this space to track my progress and organize my solutions.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/KartikSuchak/LeetCode-365/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KartikSuchak/LeetCode-365/tree/master/2292-counting-words-with-a-given-prefix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/KartikSuchak/LeetCode-365/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/KartikSuchak/LeetCode-365/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
