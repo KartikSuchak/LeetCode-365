@@ -88,6 +88,7 @@ I use this space to track my progress and organize my solutions.
 | [0349-intersection-of-two-arrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/KartikSuchak/LeetCode-365/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0605-can-place-flowers) |
@@ -220,6 +221,7 @@ I use this space to track my progress and organize my solutions.
 | [0299-bulls-and-cows](https://github.com/KartikSuchak/LeetCode-365/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0940-fruit-into-baskets](https://github.com/KartikSuchak/LeetCode-365/tree/master/0940-fruit-into-baskets) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1510-find-lucky-integer-in-an-array) |
