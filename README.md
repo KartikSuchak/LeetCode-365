@@ -115,6 +115,7 @@ I use this space to track my progress and organize my solutions.
 | [1510-find-lucky-integer-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1603-running-sum-of-1d-array) |
 | [1628-count-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1628-count-submatrices-with-all-ones) |
+| [1803-average-waiting-time](https://github.com/KartikSuchak/LeetCode-365/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KartikSuchak/LeetCode-365/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KartikSuchak/LeetCode-365/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -187,6 +188,7 @@ I use this space to track my progress and organize my solutions.
 | [0258-add-digits](https://github.com/KartikSuchak/LeetCode-365/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/KartikSuchak/LeetCode-365/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/KartikSuchak/LeetCode-365/tree/master/0495-teemo-attacking) |
+| [1803-average-waiting-time](https://github.com/KartikSuchak/LeetCode-365/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KartikSuchak/LeetCode-365/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KartikSuchak/LeetCode-365/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/KartikSuchak/LeetCode-365/tree/master/2195-time-needed-to-buy-tickets) |
