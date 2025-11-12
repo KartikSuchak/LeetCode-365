@@ -30,6 +30,7 @@ I use this space to track my progress and organize my solutions.
 | [0633-sum-of-square-numbers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0633-sum-of-square-numbers) |
 | [0909-stone-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0909-stone-game) |
 | [0994-prison-cells-after-n-days](https://github.com/KartikSuchak/LeetCode-365/tree/master/0994-prison-cells-after-n-days) |
+| [1018-largest-perimeter-triangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/1086-divisor-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KartikSuchak/LeetCode-365/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/KartikSuchak/LeetCode-365/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -104,6 +105,7 @@ I use this space to track my progress and organize my solutions.
 | [0909-stone-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0909-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/KartikSuchak/LeetCode-365/tree/master/0940-fruit-into-baskets) |
 | [0994-prison-cells-after-n-days](https://github.com/KartikSuchak/LeetCode-365/tree/master/0994-prison-cells-after-n-days) |
+| [1018-largest-perimeter-triangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1019-squares-of-a-sorted-array) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1127-last-stone-weight](https://github.com/KartikSuchak/LeetCode-365/tree/master/1127-last-stone-weight) |
@@ -303,6 +305,7 @@ I use this space to track my progress and organize my solutions.
 | [0349-intersection-of-two-arrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0414-third-maximum-number) |
+| [1018-largest-perimeter-triangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -328,6 +331,7 @@ I use this space to track my progress and organize my solutions.
 | [0055-jump-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/KartikSuchak/LeetCode-365/tree/master/0135-candy) |
 | [0605-can-place-flowers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0605-can-place-flowers) |
+| [1018-largest-perimeter-triangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/1018-largest-perimeter-triangle) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [3334-apple-redistribution-into-boxes](https://github.com/KartikSuchak/LeetCode-365/tree/master/3334-apple-redistribution-into-boxes) |
 ## Divide and Conquer
