@@ -30,6 +30,7 @@ I use this space to track my progress and organize my solutions.
 | [0633-sum-of-square-numbers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0909-stone-game) |
+| [0957-prison-cells-after-n-days](https://github.com/KartikSuchak/LeetCode-365/tree/master/0957-prison-cells-after-n-days) |
 | [0994-prison-cells-after-n-days](https://github.com/KartikSuchak/LeetCode-365/tree/master/0994-prison-cells-after-n-days) |
 | [1018-largest-perimeter-triangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/1086-divisor-game) |
@@ -57,6 +58,7 @@ I use this space to track my progress and organize my solutions.
 | [0137-single-number-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/KartikSuchak/LeetCode-365/tree/master/0342-power-of-four) |
+| [0957-prison-cells-after-n-days](https://github.com/KartikSuchak/LeetCode-365/tree/master/0957-prison-cells-after-n-days) |
 | [0994-prison-cells-after-n-days](https://github.com/KartikSuchak/LeetCode-365/tree/master/0994-prison-cells-after-n-days) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KartikSuchak/LeetCode-365/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
@@ -107,6 +109,7 @@ I use this space to track my progress and organize my solutions.
 | [0877-stone-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0909-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/KartikSuchak/LeetCode-365/tree/master/0940-fruit-into-baskets) |
+| [0957-prison-cells-after-n-days](https://github.com/KartikSuchak/LeetCode-365/tree/master/0957-prison-cells-after-n-days) |
 | [0994-prison-cells-after-n-days](https://github.com/KartikSuchak/LeetCode-365/tree/master/0994-prison-cells-after-n-days) |
 | [1018-largest-perimeter-triangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1019-squares-of-a-sorted-array) |
@@ -244,6 +247,7 @@ I use this space to track my progress and organize my solutions.
 | [0350-intersection-of-two-arrays-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0940-fruit-into-baskets](https://github.com/KartikSuchak/LeetCode-365/tree/master/0940-fruit-into-baskets) |
+| [0957-prison-cells-after-n-days](https://github.com/KartikSuchak/LeetCode-365/tree/master/0957-prison-cells-after-n-days) |
 | [0994-prison-cells-after-n-days](https://github.com/KartikSuchak/LeetCode-365/tree/master/0994-prison-cells-after-n-days) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1510-find-lucky-integer-in-an-array) |
