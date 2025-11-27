@@ -14,6 +14,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/KartikSuchak/LeetCode-365/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/KartikSuchak/LeetCode-365/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/KartikSuchak/LeetCode-365/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/KartikSuchak/LeetCode-365/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KartikSuchak/LeetCode-365/tree/master/0070-climbing-stairs) |
@@ -219,6 +220,7 @@ I use this space to track my progress and organize my solutions.
 | [0042-trapping-rain-water](https://github.com/KartikSuchak/LeetCode-365/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/KartikSuchak/LeetCode-365/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/KartikSuchak/LeetCode-365/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KartikSuchak/LeetCode-365/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSuchak/LeetCode-365/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0877-stone-game) |
@@ -415,4 +417,8 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0215-kth-largest-element-in-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/KartikSuchak/LeetCode-365/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
