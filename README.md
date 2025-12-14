@@ -44,6 +44,7 @@ I use this space to track my progress and organize my solutions.
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/KartikSuchak/LeetCode-365/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/KartikSuchak/LeetCode-365/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1925-count-square-sum-triples](https://github.com/KartikSuchak/LeetCode-365/tree/master/1925-count-square-sum-triples) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/KartikSuchak/LeetCode-365/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2649-count-total-number-of-colored-cells](https://github.com/KartikSuchak/LeetCode-365/tree/master/2649-count-total-number-of-colored-cells) |
@@ -177,6 +178,7 @@ I use this space to track my progress and organize my solutions.
 | [1636-number-of-substrings-with-only-1s](https://github.com/KartikSuchak/LeetCode-365/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KartikSuchak/LeetCode-365/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KartikSuchak/LeetCode-365/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/KartikSuchak/LeetCode-365/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KartikSuchak/LeetCode-365/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -242,6 +244,7 @@ I use this space to track my progress and organize my solutions.
 | [1086-divisor-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/1086-divisor-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1628-count-submatrices-with-all-ones) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/KartikSuchak/LeetCode-365/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2501-longest-square-streak-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/2501-longest-square-streak-in-an-array) |
 ## Matrix
 |  |
