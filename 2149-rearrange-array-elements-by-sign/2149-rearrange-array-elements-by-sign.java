@@ -5,13 +5,13 @@ class Solution {
         int positive = 0;
         int negative = 1;
 
-        for(int i = 0 ; i < m ; i++){
-            if(nums[i] > 0){
-                ans[positive] = nums[i];
+        for(int x : nums){
+            if(x > 0){
+                ans[positive] = x;
                 positive = positive + 2;
             }
             else{
-                ans[negative] = nums[i];
+                ans[negative] = x;
                 negative = negative + 2;
             }
         }
