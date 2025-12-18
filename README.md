@@ -117,6 +117,7 @@ I use this space to track my progress and organize my solutions.
 | [0605-can-place-flowers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/KartikSuchak/LeetCode-365/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/KartikSuchak/LeetCode-365/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/KartikSuchak/LeetCode-365/tree/master/0881-boats-to-save-people) |
 | [0909-stone-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0909-stone-game) |
@@ -210,6 +211,7 @@ I use this space to track my progress and organize my solutions.
 | [0367-valid-perfect-square](https://github.com/KartikSuchak/LeetCode-365/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/KartikSuchak/LeetCode-365/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/KartikSuchak/LeetCode-365/tree/master/0875-koko-eating-bananas) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KartikSuchak/LeetCode-365/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2501-longest-square-streak-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/2501-longest-square-streak-in-an-array) |
