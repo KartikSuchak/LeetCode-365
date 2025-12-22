@@ -117,6 +117,7 @@ I use this space to track my progress and organize my solutions.
 | [0442-find-all-duplicates-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/KartikSuchak/LeetCode-365/tree/master/0495-teemo-attacking) |
+| [0560-subarray-sum-equals-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/KartikSuchak/LeetCode-365/tree/master/0792-binary-search) |
@@ -290,6 +291,7 @@ I use this space to track my progress and organize my solutions.
 | [0349-intersection-of-two-arrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/KartikSuchak/LeetCode-365/tree/master/0940-fruit-into-baskets) |
 | [0957-prison-cells-after-n-days](https://github.com/KartikSuchak/LeetCode-365/tree/master/0957-prison-cells-after-n-days) |
 | [0994-prison-cells-after-n-days](https://github.com/KartikSuchak/LeetCode-365/tree/master/0994-prison-cells-after-n-days) |
@@ -319,6 +321,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/KartikSuchak/LeetCode-365/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1603-running-sum-of-1d-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KartikSuchak/LeetCode-365/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KartikSuchak/LeetCode-365/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
