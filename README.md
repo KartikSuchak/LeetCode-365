@@ -180,6 +180,7 @@ I use this space to track my progress and organize my solutions.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/KartikSuchak/LeetCode-365/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/KartikSuchak/LeetCode-365/tree/master/0058-length-of-last-word) |
@@ -314,6 +315,7 @@ I use this space to track my progress and organize my solutions.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KartikSuchak/LeetCode-365/tree/master/0042-trapping-rain-water) |
 | [1628-count-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1628-count-submatrices-with-all-ones) |
 ## Monotonic Stack
