@@ -109,6 +109,7 @@ I use this space to track my progress and organize my solutions.
 | [0189-rotate-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KartikSuchak/LeetCode-365/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/KartikSuchak/LeetCode-365/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/KartikSuchak/LeetCode-365/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/KartikSuchak/LeetCode-365/tree/master/0283-move-zeroes) |
@@ -301,6 +302,7 @@ I use this space to track my progress and organize my solutions.
 | [0128-longest-consecutive-sequence](https://github.com/KartikSuchak/LeetCode-365/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/KartikSuchak/LeetCode-365/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KartikSuchak/LeetCode-365/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/KartikSuchak/LeetCode-365/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/KartikSuchak/LeetCode-365/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/0349-intersection-of-two-arrays) |
@@ -384,6 +386,7 @@ I use this space to track my progress and organize my solutions.
 | [0169-majority-element](https://github.com/KartikSuchak/LeetCode-365/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KartikSuchak/LeetCode-365/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/KartikSuchak/LeetCode-365/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/KartikSuchak/LeetCode-365/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/0349-intersection-of-two-arrays) |
@@ -407,6 +410,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KartikSuchak/LeetCode-365/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/KartikSuchak/LeetCode-365/tree/master/0274-h-index) |
 | [0299-bulls-and-cows](https://github.com/KartikSuchak/LeetCode-365/tree/master/0299-bulls-and-cows) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/KartikSuchak/LeetCode-365/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
