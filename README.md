@@ -15,6 +15,7 @@ I use this space to track my progress and organize my solutions.
 | ------- |
 | [0002-add-two-numbers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/KartikSuchak/LeetCode-365/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/KartikSuchak/LeetCode-365/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/KartikSuchak/LeetCode-365/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/KartikSuchak/LeetCode-365/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/KartikSuchak/LeetCode-365/tree/master/0069-sqrtx) |
@@ -184,6 +185,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KartikSuchak/LeetCode-365/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/KartikSuchak/LeetCode-365/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/KartikSuchak/LeetCode-365/tree/master/0038-count-and-say) |
@@ -293,6 +295,7 @@ I use this space to track my progress and organize my solutions.
 | ------- |
 | [0001-two-sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KartikSuchak/LeetCode-365/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/KartikSuchak/LeetCode-365/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/KartikSuchak/LeetCode-365/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/KartikSuchak/LeetCode-365/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/KartikSuchak/LeetCode-365/tree/master/0128-longest-consecutive-sequence) |
