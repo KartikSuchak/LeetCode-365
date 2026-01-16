@@ -167,6 +167,7 @@ I use this space to track my progress and organize my solutions.
 | [2432-number-of-zero-filled-subarrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2501-longest-square-streak-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/2501-longest-square-streak-in-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/KartikSuchak/LeetCode-365/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/KartikSuchak/LeetCode-365/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3074-apple-redistribution-into-boxes](https://github.com/KartikSuchak/LeetCode-365/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/KartikSuchak/LeetCode-365/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -320,6 +321,7 @@ I use this space to track my progress and organize my solutions.
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KartikSuchak/LeetCode-365/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2501-longest-square-streak-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/2501-longest-square-streak-in-an-array) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/KartikSuchak/LeetCode-365/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3583-count-special-triplets](https://github.com/KartikSuchak/LeetCode-365/tree/master/3583-count-special-triplets) |
 ## Sliding Window
 |  |
@@ -518,6 +520,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/KartikSuchak/LeetCode-365/tree/master/1925-count-square-sum-triples) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/KartikSuchak/LeetCode-365/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3765-complete-prime-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/3765-complete-prime-number) |
 ## Union Find
 |  |
