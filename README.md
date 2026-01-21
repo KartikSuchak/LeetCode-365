@@ -75,6 +75,7 @@ I use this space to track my progress and organize my solutions.
 | [0342-power-of-four](https://github.com/KartikSuchak/LeetCode-365/tree/master/0342-power-of-four) |
 | [0957-prison-cells-after-n-days](https://github.com/KartikSuchak/LeetCode-365/tree/master/0957-prison-cells-after-n-days) |
 | [0994-prison-cells-after-n-days](https://github.com/KartikSuchak/LeetCode-365/tree/master/0994-prison-cells-after-n-days) |
+| [1310-xor-queries-of-a-subarray](https://github.com/KartikSuchak/LeetCode-365/tree/master/1310-xor-queries-of-a-subarray) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KartikSuchak/LeetCode-365/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
@@ -140,6 +141,7 @@ I use this space to track my progress and organize my solutions.
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1127-last-stone-weight](https://github.com/KartikSuchak/LeetCode-365/tree/master/1127-last-stone-weight) |
 | [1168-duplicate-zeros](https://github.com/KartikSuchak/LeetCode-365/tree/master/1168-duplicate-zeros) |
+| [1310-xor-queries-of-a-subarray](https://github.com/KartikSuchak/LeetCode-365/tree/master/1310-xor-queries-of-a-subarray) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KartikSuchak/LeetCode-365/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -347,6 +349,7 @@ I use this space to track my progress and organize my solutions.
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/KartikSuchak/LeetCode-365/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/0560-subarray-sum-equals-k) |
+| [1310-xor-queries-of-a-subarray](https://github.com/KartikSuchak/LeetCode-365/tree/master/1310-xor-queries-of-a-subarray) |
 | [1603-running-sum-of-1d-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1603-running-sum-of-1d-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KartikSuchak/LeetCode-365/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KartikSuchak/LeetCode-365/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
