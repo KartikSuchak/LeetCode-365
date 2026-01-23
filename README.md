@@ -123,6 +123,7 @@ I use this space to track my progress and organize my solutions.
 | [0442-find-all-duplicates-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/KartikSuchak/LeetCode-365/tree/master/0495-teemo-attacking) |
+| [0525-contiguous-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/KartikSuchak/LeetCode-365/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0605-can-place-flowers) |
@@ -316,6 +317,7 @@ I use this space to track my progress and organize my solutions.
 | [0350-intersection-of-two-arrays-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/KartikSuchak/LeetCode-365/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0525-contiguous-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/KartikSuchak/LeetCode-365/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/KartikSuchak/LeetCode-365/tree/master/0940-fruit-into-baskets) |
@@ -351,6 +353,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/KartikSuchak/LeetCode-365/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/0560-subarray-sum-equals-k) |
 | [1310-xor-queries-of-a-subarray](https://github.com/KartikSuchak/LeetCode-365/tree/master/1310-xor-queries-of-a-subarray) |
 | [1603-running-sum-of-1d-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1603-running-sum-of-1d-array) |
