@@ -16,6 +16,7 @@ I use this space to track my progress and organize my solutions.
 | [0002-add-two-numbers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/KartikSuchak/LeetCode-365/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/KartikSuchak/LeetCode-365/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/KartikSuchak/LeetCode-365/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/KartikSuchak/LeetCode-365/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/KartikSuchak/LeetCode-365/tree/master/0069-sqrtx) |
@@ -70,6 +71,7 @@ I use this space to track my progress and organize my solutions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0287-find-the-duplicate-number) |
