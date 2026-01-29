@@ -22,6 +22,7 @@ I use this space to track my progress and organize my solutions.
 | [0066-plus-one](https://github.com/KartikSuchak/LeetCode-365/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/KartikSuchak/LeetCode-365/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KartikSuchak/LeetCode-365/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/KartikSuchak/LeetCode-365/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/KartikSuchak/LeetCode-365/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/KartikSuchak/LeetCode-365/tree/master/0258-add-digits) |
@@ -73,6 +74,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/KartikSuchak/LeetCode-365/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0287-find-the-duplicate-number) |
@@ -548,4 +550,8 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KartikSuchak/LeetCode-365/tree/master/0128-longest-consecutive-sequence) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/KartikSuchak/LeetCode-365/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
