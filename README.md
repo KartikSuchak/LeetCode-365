@@ -198,6 +198,7 @@ I use this space to track my progress and organize my solutions.
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KartikSuchak/LeetCode-365/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3583-count-special-triplets](https://github.com/KartikSuchak/LeetCode-365/tree/master/3583-count-special-triplets) |
+| [3634-minimum-removals-to-balance-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3640-trionic-array-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3790-fruits-into-baskets-ii) |
@@ -359,6 +360,7 @@ I use this space to track my progress and organize my solutions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/KartikSuchak/LeetCode-365/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/KartikSuchak/LeetCode-365/tree/master/0940-fruit-into-baskets) |
+| [3634-minimum-removals-to-balance-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/3634-minimum-removals-to-balance-array) |
 ## Stack
 |  |
 | ------- |
@@ -443,6 +445,7 @@ I use this space to track my progress and organize my solutions.
 | [3075-maximize-happiness-of-selected-children](https://github.com/KartikSuchak/LeetCode-365/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3321-type-of-triangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/KartikSuchak/LeetCode-365/tree/master/3334-apple-redistribution-into-boxes) |
+| [3634-minimum-removals-to-balance-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/3634-minimum-removals-to-balance-array) |
 ## Memoization
 |  |
 | ------- |
