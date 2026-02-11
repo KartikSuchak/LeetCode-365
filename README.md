@@ -111,6 +111,7 @@ I use this space to track my progress and organize my solutions.
 | [0135-candy](https://github.com/KartikSuchak/LeetCode-365/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/KartikSuchak/LeetCode-365/tree/master/0139-word-break) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/KartikSuchak/LeetCode-365/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/KartikSuchak/LeetCode-365/tree/master/0164-maximum-gap) |
@@ -213,6 +214,7 @@ I use this space to track my progress and organize my solutions.
 | [0038-count-and-say](https://github.com/KartikSuchak/LeetCode-365/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/KartikSuchak/LeetCode-365/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/KartikSuchak/LeetCode-365/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/KartikSuchak/LeetCode-365/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/KartikSuchak/LeetCode-365/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/KartikSuchak/LeetCode-365/tree/master/0299-bulls-and-cows) |
@@ -301,6 +303,7 @@ I use this space to track my progress and organize my solutions.
 | [0070-climbing-stairs](https://github.com/KartikSuchak/LeetCode-365/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSuchak/LeetCode-365/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/KartikSuchak/LeetCode-365/tree/master/0139-word-break) |
 | [0877-stone-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/1086-divisor-game) |
@@ -331,6 +334,7 @@ I use this space to track my progress and organize my solutions.
 | [0036-valid-sudoku](https://github.com/KartikSuchak/LeetCode-365/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/KartikSuchak/LeetCode-365/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/KartikSuchak/LeetCode-365/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/KartikSuchak/LeetCode-365/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/KartikSuchak/LeetCode-365/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KartikSuchak/LeetCode-365/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0229-majority-element-ii) |
@@ -453,6 +457,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/KartikSuchak/LeetCode-365/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/KartikSuchak/LeetCode-365/tree/master/0139-word-break) |
 ## Counting Sort
 |  |
 | ------- |
@@ -576,4 +581,8 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/KartikSuchak/LeetCode-365/tree/master/0089-gray-code) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/KartikSuchak/LeetCode-365/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
