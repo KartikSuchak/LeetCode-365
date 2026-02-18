@@ -82,6 +82,7 @@ I use this space to track my progress and organize my solutions.
 | [0190-reverse-bits](https://github.com/KartikSuchak/LeetCode-365/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/KartikSuchak/LeetCode-365/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/KartikSuchak/LeetCode-365/tree/master/0401-binary-watch) |
 | [0957-prison-cells-after-n-days](https://github.com/KartikSuchak/LeetCode-365/tree/master/0957-prison-cells-after-n-days) |
 | [0994-prison-cells-after-n-days](https://github.com/KartikSuchak/LeetCode-365/tree/master/0994-prison-cells-after-n-days) |
 | [1310-xor-queries-of-a-subarray](https://github.com/KartikSuchak/LeetCode-365/tree/master/1310-xor-queries-of-a-subarray) |
@@ -592,6 +593,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/KartikSuchak/LeetCode-365/tree/master/0089-gray-code) |
+| [0401-binary-watch](https://github.com/KartikSuchak/LeetCode-365/tree/master/0401-binary-watch) |
 ## Trie
 |  |
 | ------- |
