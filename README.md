@@ -98,6 +98,7 @@ I use this space to track my progress and organize my solutions.
 | [0001-two-sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/KartikSuchak/LeetCode-365/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -415,6 +416,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KartikSuchak/LeetCode-365/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KartikSuchak/LeetCode-365/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -446,6 +448,7 @@ I use this space to track my progress and organize my solutions.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/KartikSuchak/LeetCode-365/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/KartikSuchak/LeetCode-365/tree/master/0164-maximum-gap) |
