@@ -91,6 +91,7 @@ I use this space to track my progress and organize my solutions.
 | [0994-prison-cells-after-n-days](https://github.com/KartikSuchak/LeetCode-365/tree/master/0994-prison-cells-after-n-days) |
 | [1310-xor-queries-of-a-subarray](https://github.com/KartikSuchak/LeetCode-365/tree/master/1310-xor-queries-of-a-subarray) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KartikSuchak/LeetCode-365/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/KartikSuchak/LeetCode-365/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KartikSuchak/LeetCode-365/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Array
@@ -239,6 +240,7 @@ I use this space to track my progress and organize my solutions.
 | [0696-count-binary-substrings](https://github.com/KartikSuchak/LeetCode-365/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0761-special-binary-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/KartikSuchak/LeetCode-365/tree/master/0944-delete-columns-to-make-sorted) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/KartikSuchak/LeetCode-365/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/KartikSuchak/LeetCode-365/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/KartikSuchak/LeetCode-365/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -292,6 +294,7 @@ I use this space to track my progress and organize my solutions.
 | [0412-fizz-buzz](https://github.com/KartikSuchak/LeetCode-365/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/KartikSuchak/LeetCode-365/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/KartikSuchak/LeetCode-365/tree/master/0495-teemo-attacking) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/KartikSuchak/LeetCode-365/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1803-average-waiting-time](https://github.com/KartikSuchak/LeetCode-365/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KartikSuchak/LeetCode-365/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KartikSuchak/LeetCode-365/tree/master/2137-final-value-of-variable-after-performing-operations) |
