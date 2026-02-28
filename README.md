@@ -51,6 +51,7 @@ I use this space to track my progress and organize my solutions.
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KartikSuchak/LeetCode-365/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/KartikSuchak/LeetCode-365/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/KartikSuchak/LeetCode-365/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/KartikSuchak/LeetCode-365/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/KartikSuchak/LeetCode-365/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/KartikSuchak/LeetCode-365/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -94,6 +95,7 @@ I use this space to track my progress and organize my solutions.
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/KartikSuchak/LeetCode-365/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KartikSuchak/LeetCode-365/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/KartikSuchak/LeetCode-365/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Array
 |  |
 | ------- |
@@ -296,6 +298,7 @@ I use this space to track my progress and organize my solutions.
 | [0415-add-strings](https://github.com/KartikSuchak/LeetCode-365/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/KartikSuchak/LeetCode-365/tree/master/0495-teemo-attacking) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/KartikSuchak/LeetCode-365/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/KartikSuchak/LeetCode-365/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1803-average-waiting-time](https://github.com/KartikSuchak/LeetCode-365/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KartikSuchak/LeetCode-365/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KartikSuchak/LeetCode-365/tree/master/2137-final-value-of-variable-after-performing-operations) |
