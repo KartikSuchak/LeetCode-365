@@ -73,6 +73,7 @@ I use this space to track my progress and organize my solutions.
 | [0206-reverse-linked-list](https://github.com/KartikSuchak/LeetCode-365/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/KartikSuchak/LeetCode-365/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KartikSuchak/LeetCode-365/tree/master/0342-power-of-four) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -247,6 +248,7 @@ I use this space to track my progress and organize my solutions.
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/KartikSuchak/LeetCode-365/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/KartikSuchak/LeetCode-365/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/KartikSuchak/LeetCode-365/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/KartikSuchak/LeetCode-365/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KartikSuchak/LeetCode-365/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -300,6 +302,7 @@ I use this space to track my progress and organize my solutions.
 | [0415-add-strings](https://github.com/KartikSuchak/LeetCode-365/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/KartikSuchak/LeetCode-365/tree/master/0495-teemo-attacking) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/KartikSuchak/LeetCode-365/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/KartikSuchak/LeetCode-365/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1803-average-waiting-time](https://github.com/KartikSuchak/LeetCode-365/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KartikSuchak/LeetCode-365/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
