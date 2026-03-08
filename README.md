@@ -183,6 +183,7 @@ I use this space to track my progress and organize my solutions.
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KartikSuchak/LeetCode-365/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1803-average-waiting-time](https://github.com/KartikSuchak/LeetCode-365/tree/master/1803-average-waiting-time) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1980-find-unique-binary-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/1980-find-unique-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KartikSuchak/LeetCode-365/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KartikSuchak/LeetCode-365/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/KartikSuchak/LeetCode-365/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -260,6 +261,7 @@ I use this space to track my progress and organize my solutions.
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/KartikSuchak/LeetCode-365/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/1903-largest-odd-number-in-string) |
+| [1980-find-unique-binary-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/1980-find-unique-binary-string) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KartikSuchak/LeetCode-365/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KartikSuchak/LeetCode-365/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/KartikSuchak/LeetCode-365/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -396,6 +398,7 @@ I use this space to track my progress and organize my solutions.
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KartikSuchak/LeetCode-365/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1980-find-unique-binary-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/1980-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2501-longest-square-streak-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/2501-longest-square-streak-in-an-array) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/KartikSuchak/LeetCode-365/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -637,6 +640,7 @@ I use this space to track my progress and organize my solutions.
 | ------- |
 | [0089-gray-code](https://github.com/KartikSuchak/LeetCode-365/tree/master/0089-gray-code) |
 | [0401-binary-watch](https://github.com/KartikSuchak/LeetCode-365/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/1980-find-unique-binary-string) |
 ## Trie
 |  |
 | ------- |
