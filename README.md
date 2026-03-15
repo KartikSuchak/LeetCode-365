@@ -50,6 +50,7 @@ I use this space to track my progress and organize my solutions.
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/KartikSuchak/LeetCode-365/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KartikSuchak/LeetCode-365/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/KartikSuchak/LeetCode-365/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1622-fancy-sequence](https://github.com/KartikSuchak/LeetCode-365/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/KartikSuchak/LeetCode-365/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/KartikSuchak/LeetCode-365/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/1903-largest-odd-number-in-string) |
@@ -305,6 +306,7 @@ I use this space to track my progress and organize my solutions.
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/KartikSuchak/LeetCode-365/tree/master/1622-fancy-sequence) |
 | [3790-fruits-into-baskets-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3790-fruits-into-baskets-ii) |
 ## Simulation
 |  |
@@ -683,4 +685,8 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/KartikSuchak/LeetCode-365/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/KartikSuchak/LeetCode-365/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
