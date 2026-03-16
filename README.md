@@ -53,6 +53,7 @@ I use this space to track my progress and organize my solutions.
 | [1622-fancy-sequence](https://github.com/KartikSuchak/LeetCode-365/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/KartikSuchak/LeetCode-365/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/KartikSuchak/LeetCode-365/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1903-largest-odd-number-in-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/KartikSuchak/LeetCode-365/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/KartikSuchak/LeetCode-365/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -187,6 +188,7 @@ I use this space to track my progress and organize my solutions.
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KartikSuchak/LeetCode-365/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1803-average-waiting-time](https://github.com/KartikSuchak/LeetCode-365/tree/master/1803-average-waiting-time) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/1980-find-unique-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KartikSuchak/LeetCode-365/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KartikSuchak/LeetCode-365/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -374,6 +376,7 @@ I use this space to track my progress and organize my solutions.
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1628-count-submatrices-with-all-ones) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3330-modify-the-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/3330-modify-the-matrix) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/KartikSuchak/LeetCode-365/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -447,6 +450,7 @@ I use this space to track my progress and organize my solutions.
 | [1310-xor-queries-of-a-subarray](https://github.com/KartikSuchak/LeetCode-365/tree/master/1310-xor-queries-of-a-subarray) |
 | [1603-running-sum-of-1d-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1603-running-sum-of-1d-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KartikSuchak/LeetCode-365/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KartikSuchak/LeetCode-365/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/KartikSuchak/LeetCode-365/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -512,6 +516,7 @@ I use this space to track my progress and organize my solutions.
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/KartikSuchak/LeetCode-365/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2501-longest-square-streak-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/2501-longest-square-streak-in-an-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -607,6 +612,7 @@ I use this space to track my progress and organize my solutions.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0215-kth-largest-element-in-an-array) |
 | [1127-last-stone-weight](https://github.com/KartikSuchak/LeetCode-365/tree/master/1127-last-stone-weight) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KartikSuchak/LeetCode-365/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Queue
 |  |
