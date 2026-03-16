@@ -4,12 +4,12 @@ class Solution {
         int m = grid.length;
         int n = grid[0].length;
 
-        HashSet<Integer> set = new HashSet<>();
+        TreeSet<Integer> set = new TreeSet<>();
 
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
 
-                set.add(grid[i][j]);
+                add(set, grid[i][j]);
 
                 for(int k = 1; ; k++){
 
@@ -30,20 +30,24 @@ class Solution {
                     r = i; c = j-k;
                     for(int t = 0; t < k; t++) sum += grid[r-t][c+t];
 
-                    set.add(sum);
+                    add(set, sum);
                 }
             }
         }
 
-        List<Integer> list = new ArrayList<>(set);
-        Collections.sort(list, Collections.reverseOrder());
+        int[] ans = new int[set.size()];
+        int i = set.size()-1;
 
-        int size = Math.min(3, list.size());
-        int[] ans = new int[size];
-
-        for(int i = 0; i < size; i++)
-            ans[i] = list.get(i);
+        for(int val : set){
+            ans[i--] = val;
+        }
 
         return ans;
+    }
+
+    void add(TreeSet<Integer> set, int val){
+        set.add(val);
+        if(set.size() > 3)
+            set.pollFirst();
     }
 }
