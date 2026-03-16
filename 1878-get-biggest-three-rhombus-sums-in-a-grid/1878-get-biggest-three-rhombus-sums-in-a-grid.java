@@ -18,12 +18,17 @@ class Solution {
 
                     int sum = 0;
 
-                    for(int t = 0; t < k; t++){
-                        sum += grid[i-k+t][j+t];
-                        sum += grid[i+t][j+k-t];
-                        sum += grid[i+k-t][j-t];
-                        sum += grid[i-t][j-k+t];
-                    }
+                    int r = i-k, c = j;
+                    for(int t = 0; t < k; t++) sum += grid[r+t][c+t];
+
+                    r = i; c = j+k;
+                    for(int t = 0; t < k; t++) sum += grid[r+t][c-t];
+
+                    r = i+k; c = j;
+                    for(int t = 0; t < k; t++) sum += grid[r-t][c-t];
+
+                    r = i; c = j-k;
+                    for(int t = 0; t < k; t++) sum += grid[r-t][c+t];
 
                     set.add(sum);
                 }
@@ -33,10 +38,10 @@ class Solution {
         List<Integer> list = new ArrayList<>(set);
         Collections.sort(list, Collections.reverseOrder());
 
-        int d = Math.min(3, list.size());
-        int[] ans = new int[d];
+        int size = Math.min(3, list.size());
+        int[] ans = new int[size];
 
-        for(int i = 0; i < d; i++)
+        for(int i = 0; i < size; i++)
             ans[i] = list.get(i);
 
         return ans;
