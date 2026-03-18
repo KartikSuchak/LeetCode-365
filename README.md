@@ -210,6 +210,7 @@ I use this space to track my progress and organize my solutions.
 | [2798-number-of-employees-who-met-the-target](https://github.com/KartikSuchak/LeetCode-365/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/KartikSuchak/LeetCode-365/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/KartikSuchak/LeetCode-365/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/KartikSuchak/LeetCode-365/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -379,6 +380,7 @@ I use this space to track my progress and organize my solutions.
 | [1628-count-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1628-count-submatrices-with-all-ones) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/KartikSuchak/LeetCode-365/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3330-modify-the-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/3330-modify-the-matrix) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/KartikSuchak/LeetCode-365/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -455,6 +457,7 @@ I use this space to track my progress and organize my solutions.
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KartikSuchak/LeetCode-365/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/KartikSuchak/LeetCode-365/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3311-ant-on-the-boundary](https://github.com/KartikSuchak/LeetCode-365/tree/master/3311-ant-on-the-boundary) |
