@@ -227,6 +227,7 @@ I use this space to track my progress and organize my solutions.
 | [3415-check-if-grid-satisfies-conditions](https://github.com/KartikSuchak/LeetCode-365/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KartikSuchak/LeetCode-365/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3583-count-special-triplets](https://github.com/KartikSuchak/LeetCode-365/tree/master/3583-count-special-triplets) |
 | [3634-minimum-removals-to-balance-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3637-trionic-array-i) |
@@ -386,6 +387,7 @@ I use this space to track my progress and organize my solutions.
 | [3330-modify-the-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/3330-modify-the-matrix) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/KartikSuchak/LeetCode-365/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -533,6 +535,7 @@ I use this space to track my progress and organize my solutions.
 | [3075-maximize-happiness-of-selected-children](https://github.com/KartikSuchak/LeetCode-365/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3321-type-of-triangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/KartikSuchak/LeetCode-365/tree/master/3334-apple-redistribution-into-boxes) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/3634-minimum-removals-to-balance-array) |
 ## Memoization
 |  |
