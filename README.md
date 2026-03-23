@@ -183,6 +183,7 @@ I use this space to track my progress and organize my solutions.
 | [1510-find-lucky-integer-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1603-running-sum-of-1d-array) |
 | [1628-count-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1628-count-submatrices-with-all-ones) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/KartikSuchak/LeetCode-365/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -363,6 +364,7 @@ I use this space to track my progress and organize my solutions.
 | [0909-stone-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/1086-divisor-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KartikSuchak/LeetCode-365/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/KartikSuchak/LeetCode-365/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -381,6 +383,7 @@ I use this space to track my progress and organize my solutions.
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1628-count-submatrices-with-all-ones) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/KartikSuchak/LeetCode-365/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
