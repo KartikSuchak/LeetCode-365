@@ -291,6 +291,7 @@ I use this space to track my progress and organize my solutions.
 | [2483-minimum-penalty-for-a-shop](https://github.com/KartikSuchak/LeetCode-365/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2573-find-the-string-with-lcp](https://github.com/KartikSuchak/LeetCode-365/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3312-number-of-changing-keys](https://github.com/KartikSuchak/LeetCode-365/tree/master/3312-number-of-changing-keys) |
 | [3713-longest-balanced-substring-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Search
@@ -444,6 +445,7 @@ I use this space to track my progress and organize my solutions.
 | [1980-find-unique-binary-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/1980-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2501-longest-square-streak-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/2501-longest-square-streak-in-an-array) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/KartikSuchak/LeetCode-365/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3583-count-special-triplets](https://github.com/KartikSuchak/LeetCode-365/tree/master/3583-count-special-triplets) |
@@ -554,6 +556,7 @@ I use this space to track my progress and organize my solutions.
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2501-longest-square-streak-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/2501-longest-square-streak-in-an-array) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/KartikSuchak/LeetCode-365/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/KartikSuchak/LeetCode-365/tree/master/3075-maximize-happiness-of-selected-children) |
