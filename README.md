@@ -293,6 +293,7 @@ I use this space to track my progress and organize my solutions.
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3312-number-of-changing-keys](https://github.com/KartikSuchak/LeetCode-365/tree/master/3312-number-of-changing-keys) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3713-longest-balanced-substring-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Search
 |  |
@@ -605,6 +606,7 @@ I use this space to track my progress and organize my solutions.
 | [3075-maximize-happiness-of-selected-children](https://github.com/KartikSuchak/LeetCode-365/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KartikSuchak/LeetCode-365/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3334-apple-redistribution-into-boxes](https://github.com/KartikSuchak/LeetCode-365/tree/master/3334-apple-redistribution-into-boxes) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/KartikSuchak/LeetCode-365/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Divide and Conquer
 |  |
@@ -673,6 +675,7 @@ I use this space to track my progress and organize my solutions.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/KartikSuchak/LeetCode-365/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KartikSuchak/LeetCode-365/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Bucket Sort
 |  |
 | ------- |
