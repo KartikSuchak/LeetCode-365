@@ -1,25 +1,29 @@
 class Solution {
     public String decodeCiphertext(String encodedText, int rows) {
-        if(rows<=1)
-            return encodedText;
+        if (rows == 0) return "";
 
-        StringBuilder decode = new StringBuilder();
         int n = encodedText.length();
-        int m = n / rows;
+        if (n == 0) return "";
 
-        for(int i=0;i<m;i++) {  
-           for(int j=0;j<rows;j++) {
-               int idx = i + j + (m * j);
-               if(idx < rows * m) {
-                   decode.append(encodedText.charAt(idx));
-               }
-           }
+        int cols = n / rows;
+
+        StringBuilder result = new StringBuilder();
+
+        for (int startCol = 0; startCol < cols; startCol++) {
+            int i = 0, j = startCol;
+
+            while (i < rows && j < cols) {
+                result.append(encodedText.charAt(i * cols + j));
+                i++;
+                j++;
+            }
         }
 
-        while(decode.length() > 0 && decode.charAt(decode.length()-1) == ' ') {
-            decode.deleteCharAt(decode.length()-1);
+        int end = result.length() - 1;
+        while (end >= 0 && result.charAt(end) == ' ') {
+            end--;
         }
 
-        return decode.toString();
+        return result.substring(0, end + 1);
     }
 }
