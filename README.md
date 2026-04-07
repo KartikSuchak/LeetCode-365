@@ -348,6 +348,7 @@ I use this space to track my progress and organize my solutions.
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/KartikSuchak/LeetCode-365/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1803-average-waiting-time](https://github.com/KartikSuchak/LeetCode-365/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KartikSuchak/LeetCode-365/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2069-walking-robot-simulation-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/KartikSuchak/LeetCode-365/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KartikSuchak/LeetCode-365/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KartikSuchak/LeetCode-365/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -759,4 +760,5 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/KartikSuchak/LeetCode-365/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/2069-walking-robot-simulation-ii) |
 <!---LeetCode Topics End-->
