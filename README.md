@@ -243,6 +243,7 @@ I use this space to track my progress and organize my solutions.
 | [3637-trionic-array-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/KartikSuchak/LeetCode-365/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/KartikSuchak/LeetCode-365/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3790-fruits-into-baskets-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3790-fruits-into-baskets-ii) |
 | [4058-compute-alternating-sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/4058-compute-alternating-sum) |
@@ -361,6 +362,7 @@ I use this space to track my progress and organize my solutions.
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3336-water-bottles-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/3379-transformed-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3790-fruits-into-baskets-ii) |
 | [4058-compute-alternating-sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/4058-compute-alternating-sum) |
 ## Ordered Set
@@ -636,6 +638,7 @@ I use this space to track my progress and organize my solutions.
 | [0190-reverse-bits](https://github.com/KartikSuchak/LeetCode-365/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0215-kth-largest-element-in-an-array) |
 | [0761-special-binary-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0761-special-binary-string) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Database
 |  |
 | ------- |
