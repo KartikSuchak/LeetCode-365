@@ -244,6 +244,7 @@ I use this space to track my progress and organize my solutions.
 | [3640-trionic-array-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/KartikSuchak/LeetCode-365/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/KartikSuchak/LeetCode-365/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3790-fruits-into-baskets-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3790-fruits-into-baskets-ii) |
 | [4058-compute-alternating-sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/4058-compute-alternating-sum) |
@@ -639,6 +640,7 @@ I use this space to track my progress and organize my solutions.
 | [0215-kth-largest-element-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0215-kth-largest-element-in-an-array) |
 | [0761-special-binary-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0761-special-binary-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Database
 |  |
 | ------- |
