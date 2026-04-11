@@ -247,6 +247,7 @@ I use this space to track my progress and organize my solutions.
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/KartikSuchak/LeetCode-365/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3790-fruits-into-baskets-ii) |
 | [4058-compute-alternating-sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/4058-compute-alternating-sum) |
 ## String
@@ -472,6 +473,7 @@ I use this space to track my progress and organize my solutions.
 | [3583-count-special-triplets](https://github.com/KartikSuchak/LeetCode-365/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3713-longest-balanced-substring-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Sliding Window
 |  |
 | ------- |
