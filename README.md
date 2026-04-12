@@ -275,6 +275,7 @@ I use this space to track my progress and organize my solutions.
 | [0696-count-binary-substrings](https://github.com/KartikSuchak/LeetCode-365/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0761-special-binary-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/KartikSuchak/LeetCode-365/tree/master/0944-delete-columns-to-make-sorted) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/KartikSuchak/LeetCode-365/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/KartikSuchak/LeetCode-365/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KartikSuchak/LeetCode-365/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/KartikSuchak/LeetCode-365/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
@@ -390,6 +391,7 @@ I use this space to track my progress and organize my solutions.
 | [0877-stone-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/1086-divisor-game) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/KartikSuchak/LeetCode-365/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1628-count-submatrices-with-all-ones) |
