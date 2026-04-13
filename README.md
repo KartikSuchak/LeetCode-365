@@ -191,6 +191,7 @@ I use this space to track my progress and organize my solutions.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/KartikSuchak/LeetCode-365/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KartikSuchak/LeetCode-365/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1803-average-waiting-time](https://github.com/KartikSuchak/LeetCode-365/tree/master/1803-average-waiting-time) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/KartikSuchak/LeetCode-365/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KartikSuchak/LeetCode-365/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
