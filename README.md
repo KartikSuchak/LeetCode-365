@@ -239,6 +239,7 @@ I use this space to track my progress and organize my solutions.
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/KartikSuchak/LeetCode-365/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KartikSuchak/LeetCode-365/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3488-closest-equal-element-queries](https://github.com/KartikSuchak/LeetCode-365/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3583-count-special-triplets](https://github.com/KartikSuchak/LeetCode-365/tree/master/3583-count-special-triplets) |
@@ -334,6 +335,7 @@ I use this space to track my progress and organize my solutions.
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2501-longest-square-streak-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/2501-longest-square-streak-in-an-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KartikSuchak/LeetCode-365/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3488-closest-equal-element-queries](https://github.com/KartikSuchak/LeetCode-365/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/KartikSuchak/LeetCode-365/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/KartikSuchak/LeetCode-365/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3790-fruits-into-baskets-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3790-fruits-into-baskets-ii) |
@@ -476,6 +478,7 @@ I use this space to track my progress and organize my solutions.
 | [2501-longest-square-streak-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/2501-longest-square-streak-in-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/KartikSuchak/LeetCode-365/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3488-closest-equal-element-queries](https://github.com/KartikSuchak/LeetCode-365/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3583-count-special-triplets](https://github.com/KartikSuchak/LeetCode-365/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3713-longest-balanced-substring-i) |
