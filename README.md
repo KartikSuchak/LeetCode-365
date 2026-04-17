@@ -144,6 +144,7 @@ I use this space to track my progress and organize my solutions.
 | [0217-contains-duplicate](https://github.com/KartikSuchak/LeetCode-365/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/KartikSuchak/LeetCode-365/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/KartikSuchak/LeetCode-365/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/KartikSuchak/LeetCode-365/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0287-find-the-duplicate-number) |
@@ -327,6 +328,7 @@ I use this space to track my progress and organize my solutions.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/KartikSuchak/LeetCode-365/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KartikSuchak/LeetCode-365/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -423,6 +425,7 @@ I use this space to track my progress and organize my solutions.
 | [0036-valid-sudoku](https://github.com/KartikSuchak/LeetCode-365/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/KartikSuchak/LeetCode-365/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -659,6 +662,7 @@ I use this space to track my progress and organize my solutions.
 | [0169-majority-element](https://github.com/KartikSuchak/LeetCode-365/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/KartikSuchak/LeetCode-365/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0240-search-a-2d-matrix-ii) |
 | [0761-special-binary-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0761-special-binary-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3655-xor-after-range-multiplication-queries-ii) |
