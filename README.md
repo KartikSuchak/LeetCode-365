@@ -67,6 +67,7 @@ I use this space to track my progress and organize my solutions.
 | [3321-type-of-triangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KartikSuchak/LeetCode-365/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/KartikSuchak/LeetCode-365/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3765-complete-prime-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/3765-complete-prime-number) |
 | [3830-find-closest-person](https://github.com/KartikSuchak/LeetCode-365/tree/master/3830-find-closest-person) |
 ## Recursion
@@ -252,6 +253,7 @@ I use this space to track my progress and organize my solutions.
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/KartikSuchak/LeetCode-365/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/KartikSuchak/LeetCode-365/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3790-fruits-into-baskets-ii) |
 | [4058-compute-alternating-sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/4058-compute-alternating-sum) |
 ## String
@@ -484,6 +486,7 @@ I use this space to track my progress and organize my solutions.
 | [3713-longest-balanced-substring-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3713-longest-balanced-substring-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/KartikSuchak/LeetCode-365/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Sliding Window
 |  |
 | ------- |
