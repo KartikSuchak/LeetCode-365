@@ -1,40 +1,29 @@
 class Solution {
     public String convert(String s, int numRows) {
-        if(numRows == 1) return s;
+        if(numRows == 1 || s.length() <= numRows) return s;
 
-        int m = s.length();
-        char[][] arr = new char[numRows][m];
+        StringBuilder[] rows = new StringBuilder[numRows];
+        for(int i = 0; i < numRows; i++){
+            rows[i] = new StringBuilder();
+        }
 
-        int i = 0;
         int row = 0;
-        int col = 0;
+        int direction = 1;
 
-        while(i < m){
-            while(row < numRows && i < m){
-                arr[row][col] = s.charAt(i);
-                row++;
-                i++;
+        for(char c : s.toCharArray()){
+            rows[row].append(c);
+            if(row == 0){
+                direction = 1;
             }
-
-            row = numRows - 2;
-            col++;
-
-            while(row > 0 && i < m){
-                arr[row][col] = s.charAt(i);
-                row--;
-                col++;
-                i++;
+            else if(row == numRows - 1){
+                direction = -1;
             }
+            row += direction;
         }
-
-        StringBuilder sb = new StringBuilder();
-        for(char[] rows : arr){
-            for(char val : rows){
-                if(val != '\0'){
-                    sb.append(val);
-                }
-            }
+        StringBuilder result = new StringBuilder();
+        for(StringBuilder sb : rows){
+            result.append(sb);
         }
-        return sb.toString();
+        return result.toString();
     }
 }
