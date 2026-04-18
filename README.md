@@ -69,6 +69,7 @@ I use this space to track my progress and organize my solutions.
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KartikSuchak/LeetCode-365/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/KartikSuchak/LeetCode-365/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3765-complete-prime-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/3765-complete-prime-number) |
+| [3783-mirror-distance-of-an-integer](https://github.com/KartikSuchak/LeetCode-365/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/KartikSuchak/LeetCode-365/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
