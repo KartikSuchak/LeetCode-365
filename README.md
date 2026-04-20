@@ -202,6 +202,7 @@ I use this space to track my progress and organize my solutions.
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KartikSuchak/LeetCode-365/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/1980-find-unique-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KartikSuchak/LeetCode-365/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/KartikSuchak/LeetCode-365/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KartikSuchak/LeetCode-365/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/KartikSuchak/LeetCode-365/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -652,6 +653,7 @@ I use this space to track my progress and organize my solutions.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/KartikSuchak/LeetCode-365/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/1903-largest-odd-number-in-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/KartikSuchak/LeetCode-365/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2573-find-the-string-with-lcp](https://github.com/KartikSuchak/LeetCode-365/tree/master/2573-find-the-string-with-lcp) |
 | [3074-apple-redistribution-into-boxes](https://github.com/KartikSuchak/LeetCode-365/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/KartikSuchak/LeetCode-365/tree/master/3075-maximize-happiness-of-selected-children) |
