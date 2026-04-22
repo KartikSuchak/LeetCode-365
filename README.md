@@ -218,6 +218,7 @@ I use this space to track my progress and organize my solutions.
 | [2341-count-prefixes-of-a-given-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/KartikSuchak/LeetCode-365/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/KartikSuchak/LeetCode-365/tree/master/2463-minimum-total-distance-traveled) |
 | [2501-longest-square-streak-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/2501-longest-square-streak-in-an-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -312,6 +313,7 @@ I use this space to track my progress and organize my solutions.
 | [2292-counting-words-with-a-given-prefix](https://github.com/KartikSuchak/LeetCode-365/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/KartikSuchak/LeetCode-365/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/KartikSuchak/LeetCode-365/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/KartikSuchak/LeetCode-365/tree/master/2573-find-the-string-with-lcp) |
@@ -773,6 +775,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0139-word-break](https://github.com/KartikSuchak/LeetCode-365/tree/master/0139-word-break) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/KartikSuchak/LeetCode-365/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Rolling Hash
 |  |
 | ------- |
