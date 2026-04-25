@@ -67,6 +67,7 @@ I use this space to track my progress and organize my solutions.
 | [3321-type-of-triangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KartikSuchak/LeetCode-365/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KartikSuchak/LeetCode-365/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/KartikSuchak/LeetCode-365/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3765-complete-prime-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/3765-complete-prime-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/KartikSuchak/LeetCode-365/tree/master/3783-mirror-distance-of-an-integer) |
@@ -248,6 +249,7 @@ I use this space to track my progress and organize my solutions.
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/KartikSuchak/LeetCode-365/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KartikSuchak/LeetCode-365/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KartikSuchak/LeetCode-365/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/KartikSuchak/LeetCode-365/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -351,6 +353,7 @@ I use this space to track my progress and organize my solutions.
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2501-longest-square-streak-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/2501-longest-square-streak-in-an-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KartikSuchak/LeetCode-365/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KartikSuchak/LeetCode-365/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/KartikSuchak/LeetCode-365/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/KartikSuchak/LeetCode-365/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/KartikSuchak/LeetCode-365/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -621,6 +624,7 @@ I use this space to track my progress and organize my solutions.
 | [3075-maximize-happiness-of-selected-children](https://github.com/KartikSuchak/LeetCode-365/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3321-type-of-triangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/KartikSuchak/LeetCode-365/tree/master/3334-apple-redistribution-into-boxes) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KartikSuchak/LeetCode-365/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/3634-minimum-removals-to-balance-array) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/KartikSuchak/LeetCode-365/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -812,4 +816,8 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/KartikSuchak/LeetCode-365/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KartikSuchak/LeetCode-365/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
