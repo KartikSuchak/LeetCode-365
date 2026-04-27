@@ -181,6 +181,7 @@ I use this space to track my progress and organize my solutions.
 | [1310-xor-queries-of-a-subarray](https://github.com/KartikSuchak/LeetCode-365/tree/master/1310-xor-queries-of-a-subarray) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KartikSuchak/LeetCode-365/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/KartikSuchak/LeetCode-365/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KartikSuchak/LeetCode-365/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -441,6 +442,7 @@ I use this space to track my progress and organize my solutions.
 | [0074-search-a-2d-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -798,6 +800,7 @@ I use this space to track my progress and organize my solutions.
 ## Union-Find
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/KartikSuchak/LeetCode-365/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/KartikSuchak/LeetCode-365/tree/master/2573-find-the-string-with-lcp) |
@@ -818,6 +821,7 @@ I use this space to track my progress and organize my solutions.
 ## Depth-First Search
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/KartikSuchak/LeetCode-365/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Geometry
@@ -827,5 +831,6 @@ I use this space to track my progress and organize my solutions.
 ## Breadth-First Search
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
