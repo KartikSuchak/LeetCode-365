@@ -205,6 +205,7 @@ I use this space to track my progress and organize my solutions.
 | [1803-average-waiting-time](https://github.com/KartikSuchak/LeetCode-365/tree/master/1803-average-waiting-time) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/KartikSuchak/LeetCode-365/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KartikSuchak/LeetCode-365/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/KartikSuchak/LeetCode-365/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KartikSuchak/LeetCode-365/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -462,6 +463,7 @@ I use this space to track my progress and organize my solutions.
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1628-count-submatrices-with-all-ones) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/KartikSuchak/LeetCode-365/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1861-rotating-the-box](https://github.com/KartikSuchak/LeetCode-365/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KartikSuchak/LeetCode-365/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -603,6 +605,7 @@ I use this space to track my progress and organize my solutions.
 | [1168-duplicate-zeros](https://github.com/KartikSuchak/LeetCode-365/tree/master/1168-duplicate-zeros) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/KartikSuchak/LeetCode-365/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KartikSuchak/LeetCode-365/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/KartikSuchak/LeetCode-365/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KartikSuchak/LeetCode-365/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KartikSuchak/LeetCode-365/tree/master/2161-partition-array-according-to-given-pivot) |
