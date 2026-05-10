@@ -236,6 +236,7 @@ I use this space to track my progress and organize my solutions.
 | [2573-find-the-string-with-lcp](https://github.com/KartikSuchak/LeetCode-365/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/KartikSuchak/LeetCode-365/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2751-robot-collisions) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KartikSuchak/LeetCode-365/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/KartikSuchak/LeetCode-365/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2906-construct-product-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KartikSuchak/LeetCode-365/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -445,6 +446,7 @@ I use this space to track my progress and organize my solutions.
 | [2463-minimum-total-distance-traveled](https://github.com/KartikSuchak/LeetCode-365/tree/master/2463-minimum-total-distance-traveled) |
 | [2501-longest-square-streak-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/2501-longest-square-streak-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/KartikSuchak/LeetCode-365/tree/master/2573-find-the-string-with-lcp) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KartikSuchak/LeetCode-365/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/KartikSuchak/LeetCode-365/tree/master/3225-maximum-score-from-grid-operations) |
