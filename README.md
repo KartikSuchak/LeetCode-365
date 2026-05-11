@@ -233,6 +233,7 @@ I use this space to track my progress and organize my solutions.
 | [2463-minimum-total-distance-traveled](https://github.com/KartikSuchak/LeetCode-365/tree/master/2463-minimum-total-distance-traveled) |
 | [2501-longest-square-streak-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/2501-longest-square-streak-in-an-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/KartikSuchak/LeetCode-365/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/KartikSuchak/LeetCode-365/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2751-robot-collisions) |
@@ -401,6 +402,7 @@ I use this space to track my progress and organize my solutions.
 | [2149-rearrange-array-elements-by-sign](https://github.com/KartikSuchak/LeetCode-365/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KartikSuchak/LeetCode-365/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2195-time-needed-to-buy-tickets](https://github.com/KartikSuchak/LeetCode-365/tree/master/2195-time-needed-to-buy-tickets) |
+| [2553-separate-the-digits-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KartikSuchak/LeetCode-365/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3100-water-bottles-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3100-water-bottles-ii) |
