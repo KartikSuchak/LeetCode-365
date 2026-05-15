@@ -140,6 +140,7 @@ I use this space to track my progress and organize my solutions.
 | [0136-single-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/KartikSuchak/LeetCode-365/tree/master/0139-word-break) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/KartikSuchak/LeetCode-365/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/KartikSuchak/LeetCode-365/tree/master/0164-maximum-gap) |
@@ -356,6 +357,7 @@ I use this space to track my progress and organize my solutions.
 | [0069-sqrtx](https://github.com/KartikSuchak/LeetCode-365/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/KartikSuchak/LeetCode-365/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KartikSuchak/LeetCode-365/tree/master/0167-two-sum-ii-input-array-is-sorted) |
