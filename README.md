@@ -184,6 +184,7 @@ I use this space to track my progress and organize my solutions.
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1127-last-stone-weight](https://github.com/KartikSuchak/LeetCode-365/tree/master/1127-last-stone-weight) |
 | [1168-duplicate-zeros](https://github.com/KartikSuchak/LeetCode-365/tree/master/1168-duplicate-zeros) |
+| [1306-jump-game-iii](https://github.com/KartikSuchak/LeetCode-365/tree/master/1306-jump-game-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/KartikSuchak/LeetCode-365/tree/master/1310-xor-queries-of-a-subarray) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KartikSuchak/LeetCode-365/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -866,6 +867,7 @@ I use this space to track my progress and organize my solutions.
 ## Depth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/KartikSuchak/LeetCode-365/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/KartikSuchak/LeetCode-365/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -876,6 +878,7 @@ I use this space to track my progress and organize my solutions.
 ## Breadth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/KartikSuchak/LeetCode-365/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/KartikSuchak/LeetCode-365/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
