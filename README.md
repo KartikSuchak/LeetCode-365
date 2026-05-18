@@ -186,6 +186,7 @@ I use this space to track my progress and organize my solutions.
 | [1168-duplicate-zeros](https://github.com/KartikSuchak/LeetCode-365/tree/master/1168-duplicate-zeros) |
 | [1306-jump-game-iii](https://github.com/KartikSuchak/LeetCode-365/tree/master/1306-jump-game-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/KartikSuchak/LeetCode-365/tree/master/1310-xor-queries-of-a-subarray) |
+| [1345-jump-game-iv](https://github.com/KartikSuchak/LeetCode-365/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KartikSuchak/LeetCode-365/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -527,6 +528,7 @@ I use this space to track my progress and organize my solutions.
 | [0994-prison-cells-after-n-days](https://github.com/KartikSuchak/LeetCode-365/tree/master/0994-prison-cells-after-n-days) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/KartikSuchak/LeetCode-365/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1345-jump-game-iv](https://github.com/KartikSuchak/LeetCode-365/tree/master/1345-jump-game-iv) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/KartikSuchak/LeetCode-365/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -879,6 +881,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/KartikSuchak/LeetCode-365/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/KartikSuchak/LeetCode-365/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/KartikSuchak/LeetCode-365/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
