@@ -67,6 +67,7 @@ I use this space to track my progress and organize my solutions.
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KartikSuchak/LeetCode-365/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3100-water-bottles-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3100-water-bottles-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KartikSuchak/LeetCode-365/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KartikSuchak/LeetCode-365/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -262,6 +263,7 @@ I use this space to track my progress and organize my solutions.
 | [3225-maximum-score-from-grid-operations](https://github.com/KartikSuchak/LeetCode-365/tree/master/3225-maximum-score-from-grid-operations) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KartikSuchak/LeetCode-365/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3311-ant-on-the-boundary](https://github.com/KartikSuchak/LeetCode-365/tree/master/3311-ant-on-the-boundary) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3321-type-of-triangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/3321-type-of-triangle) |
