@@ -74,6 +74,7 @@ I use this space to track my progress and organize my solutions.
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KartikSuchak/LeetCode-365/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/KartikSuchak/LeetCode-365/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/KartikSuchak/LeetCode-365/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3765-complete-prime-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/3765-complete-prime-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/KartikSuchak/LeetCode-365/tree/master/3783-mirror-distance-of-an-integer) |
@@ -490,6 +491,7 @@ I use this space to track my progress and organize my solutions.
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/KartikSuchak/LeetCode-365/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Matrix
 |  |
 | ------- |
