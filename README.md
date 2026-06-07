@@ -237,6 +237,7 @@ I use this space to track my progress and organize my solutions.
 | [2161-partition-array-according-to-given-pivot](https://github.com/KartikSuchak/LeetCode-365/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-smallest-index-with-equal-value](https://github.com/KartikSuchak/LeetCode-365/tree/master/2181-smallest-index-with-equal-value) |
 | [2195-time-needed-to-buy-tickets](https://github.com/KartikSuchak/LeetCode-365/tree/master/2195-time-needed-to-buy-tickets) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KartikSuchak/LeetCode-365/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -566,6 +567,7 @@ I use this space to track my progress and organize my solutions.
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KartikSuchak/LeetCode-365/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/1980-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2501-longest-square-streak-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/2501-longest-square-streak-in-an-array) |
 | [2615-sum-of-distances](https://github.com/KartikSuchak/LeetCode-365/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -939,4 +941,12 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/KartikSuchak/LeetCode-365/tree/master/3161-block-placement-queries) |
+## Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
