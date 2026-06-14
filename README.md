@@ -121,6 +121,7 @@ I use this space to track my progress and organize my solutions.
 | [0001-two-sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/KartikSuchak/LeetCode-365/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/KartikSuchak/LeetCode-365/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0033-search-in-rotated-sorted-array) |
@@ -318,6 +319,7 @@ I use this space to track my progress and organize my solutions.
 | [0008-string-to-integer-atoi](https://github.com/KartikSuchak/LeetCode-365/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/KartikSuchak/LeetCode-365/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KartikSuchak/LeetCode-365/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/KartikSuchak/LeetCode-365/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/KartikSuchak/LeetCode-365/tree/master/0038-count-and-say) |
@@ -896,6 +898,7 @@ I use this space to track my progress and organize my solutions.
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/KartikSuchak/LeetCode-365/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/KartikSuchak/LeetCode-365/tree/master/0139-word-break) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/KartikSuchak/LeetCode-365/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/KartikSuchak/LeetCode-365/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
