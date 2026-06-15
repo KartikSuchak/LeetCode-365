@@ -86,6 +86,7 @@ I use this space to track my progress and organize my solutions.
 | ------- |
 | [0002-add-two-numbers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/KartikSuchak/LeetCode-365/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/KartikSuchak/LeetCode-365/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/KartikSuchak/LeetCode-365/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/KartikSuchak/LeetCode-365/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KartikSuchak/LeetCode-365/tree/master/0342-power-of-four) |
@@ -848,6 +849,7 @@ I use this space to track my progress and organize my solutions.
 | [0002-add-two-numbers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KartikSuchak/LeetCode-365/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/KartikSuchak/LeetCode-365/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/KartikSuchak/LeetCode-365/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/KartikSuchak/LeetCode-365/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/KartikSuchak/LeetCode-365/tree/master/0206-reverse-linked-list) |
 ## String Matching
