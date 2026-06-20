@@ -331,6 +331,7 @@ I use this space to track my progress and organize my solutions.
 | [0043-multiply-strings](https://github.com/KartikSuchak/LeetCode-365/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/KartikSuchak/LeetCode-365/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/KartikSuchak/LeetCode-365/tree/master/0067-add-binary) |
+| [0093-restore-ip-addresses](https://github.com/KartikSuchak/LeetCode-365/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/KartikSuchak/LeetCode-365/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/KartikSuchak/LeetCode-365/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0151-reverse-words-in-a-string) |
@@ -902,6 +903,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/KartikSuchak/LeetCode-365/tree/master/0089-gray-code) |
+| [0093-restore-ip-addresses](https://github.com/KartikSuchak/LeetCode-365/tree/master/0093-restore-ip-addresses) |
 | [0401-binary-watch](https://github.com/KartikSuchak/LeetCode-365/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KartikSuchak/LeetCode-365/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/1980-find-unique-binary-string) |
