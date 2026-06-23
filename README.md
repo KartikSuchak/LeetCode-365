@@ -137,6 +137,7 @@ I use this space to track my progress and organize my solutions.
 | [0042-trapping-rain-water](https://github.com/KartikSuchak/LeetCode-365/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/KartikSuchak/LeetCode-365/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/KartikSuchak/LeetCode-365/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/KartikSuchak/LeetCode-365/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/KartikSuchak/LeetCode-365/tree/master/0056-merge-intervals) |
@@ -331,6 +332,7 @@ I use this space to track my progress and organize my solutions.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/KartikSuchak/LeetCode-365/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/KartikSuchak/LeetCode-365/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/KartikSuchak/LeetCode-365/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/KartikSuchak/LeetCode-365/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/KartikSuchak/LeetCode-365/tree/master/0067-add-binary) |
 | [0093-restore-ip-addresses](https://github.com/KartikSuchak/LeetCode-365/tree/master/0093-restore-ip-addresses) |
@@ -558,6 +560,7 @@ I use this space to track my progress and organize my solutions.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/KartikSuchak/LeetCode-365/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/KartikSuchak/LeetCode-365/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/KartikSuchak/LeetCode-365/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/KartikSuchak/LeetCode-365/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/KartikSuchak/LeetCode-365/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/KartikSuchak/LeetCode-365/tree/master/0169-majority-element) |
@@ -699,6 +702,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/KartikSuchak/LeetCode-365/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/KartikSuchak/LeetCode-365/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/KartikSuchak/LeetCode-365/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0088-merge-sorted-array) |
