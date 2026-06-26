@@ -143,6 +143,7 @@ I use this space to track my progress and organize my solutions.
 | [0055-jump-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/KartikSuchak/LeetCode-365/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KartikSuchak/LeetCode-365/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/KartikSuchak/LeetCode-365/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/KartikSuchak/LeetCode-365/tree/master/0075-sort-colors) |
@@ -440,6 +441,7 @@ I use this space to track my progress and organize my solutions.
 | ------- |
 | [0043-multiply-strings](https://github.com/KartikSuchak/LeetCode-365/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/KartikSuchak/LeetCode-365/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/KartikSuchak/LeetCode-365/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/KartikSuchak/LeetCode-365/tree/master/0412-fizz-buzz) |
@@ -524,6 +526,7 @@ I use this space to track my progress and organize my solutions.
 | [0036-valid-sudoku](https://github.com/KartikSuchak/LeetCode-365/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/KartikSuchak/LeetCode-365/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
