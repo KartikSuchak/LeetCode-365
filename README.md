@@ -228,6 +228,7 @@ I use this space to track my progress and organize my solutions.
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KartikSuchak/LeetCode-365/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KartikSuchak/LeetCode-365/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1803-average-waiting-time](https://github.com/KartikSuchak/LeetCode-365/tree/master/1803-average-waiting-time) |
+| [1833-maximum-ice-cream-bars](https://github.com/KartikSuchak/LeetCode-365/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/KartikSuchak/LeetCode-365/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KartikSuchak/LeetCode-365/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/KartikSuchak/LeetCode-365/tree/master/1861-rotating-the-box) |
@@ -737,6 +738,7 @@ I use this space to track my progress and organize my solutions.
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KartikSuchak/LeetCode-365/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/KartikSuchak/LeetCode-365/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/KartikSuchak/LeetCode-365/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -777,6 +779,7 @@ I use this space to track my progress and organize my solutions.
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KartikSuchak/LeetCode-365/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/KartikSuchak/LeetCode-365/tree/master/1833-maximum-ice-cream-bars) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2833-furthest-point-from-origin](https://github.com/KartikSuchak/LeetCode-365/tree/master/2833-furthest-point-from-origin) |
 | [3583-count-special-triplets](https://github.com/KartikSuchak/LeetCode-365/tree/master/3583-count-special-triplets) |
@@ -796,6 +799,7 @@ I use this space to track my progress and organize my solutions.
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KartikSuchak/LeetCode-365/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/KartikSuchak/LeetCode-365/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/KartikSuchak/LeetCode-365/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/KartikSuchak/LeetCode-365/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/KartikSuchak/LeetCode-365/tree/master/2078-two-furthest-houses-with-different-colors) |
