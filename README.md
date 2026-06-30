@@ -636,6 +636,7 @@ I use this space to track my progress and organize my solutions.
 | [0042-trapping-rain-water](https://github.com/KartikSuchak/LeetCode-365/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0145-binary-tree-postorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KartikSuchak/LeetCode-365/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2751-robot-collisions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2751-robot-collisions) |
@@ -975,6 +976,7 @@ I use this space to track my progress and organize my solutions.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0145-binary-tree-postorder-traversal) |
 | [1306-jump-game-iii](https://github.com/KartikSuchak/LeetCode-365/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1001,6 +1003,7 @@ I use this space to track my progress and organize my solutions.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0145-binary-tree-postorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
@@ -1008,5 +1011,6 @@ I use this space to track my progress and organize my solutions.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0145-binary-tree-postorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
