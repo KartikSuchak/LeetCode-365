@@ -150,6 +150,7 @@ I use this space to track my progress and organize my solutions.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSuchak/LeetCode-365/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/KartikSuchak/LeetCode-365/tree/master/0128-longest-consecutive-sequence) |
@@ -827,6 +828,7 @@ I use this space to track my progress and organize my solutions.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/KartikSuchak/LeetCode-365/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/KartikSuchak/LeetCode-365/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/KartikSuchak/LeetCode-365/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0215-kth-largest-element-in-an-array) |
@@ -1019,6 +1021,7 @@ I use this space to track my progress and organize my solutions.
 | [0100-same-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0145-binary-tree-postorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -1030,6 +1033,7 @@ I use this space to track my progress and organize my solutions.
 | [0100-same-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0145-binary-tree-postorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -1037,4 +1041,8 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
