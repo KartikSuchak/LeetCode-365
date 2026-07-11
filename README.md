@@ -691,6 +691,7 @@ I use this space to track my progress and organize my solutions.
 | [0061-rotate-list](https://github.com/KartikSuchak/LeetCode-365/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/KartikSuchak/LeetCode-365/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/KartikSuchak/LeetCode-365/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/KartikSuchak/LeetCode-365/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0151-reverse-words-in-a-string) |
@@ -892,6 +893,7 @@ I use this space to track my progress and organize my solutions.
 | [0024-swap-nodes-in-pairs](https://github.com/KartikSuchak/LeetCode-365/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/KartikSuchak/LeetCode-365/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KartikSuchak/LeetCode-365/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/KartikSuchak/LeetCode-365/tree/master/0086-partition-list) |
 | [0206-reverse-linked-list](https://github.com/KartikSuchak/LeetCode-365/tree/master/0206-reverse-linked-list) |
 ## String Matching
 |  |
