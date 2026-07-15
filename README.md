@@ -701,6 +701,7 @@ I use this space to track my progress and organize my solutions.
 | [0141-linked-list-cycle](https://github.com/KartikSuchak/LeetCode-365/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/KartikSuchak/LeetCode-365/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/KartikSuchak/LeetCode-365/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KartikSuchak/LeetCode-365/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0189-rotate-array) |
@@ -733,6 +734,7 @@ I use this space to track my progress and organize my solutions.
 | [0056-merge-intervals](https://github.com/KartikSuchak/LeetCode-365/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/KartikSuchak/LeetCode-365/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/KartikSuchak/LeetCode-365/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/KartikSuchak/LeetCode-365/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/KartikSuchak/LeetCode-365/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0215-kth-largest-element-in-an-array) |
@@ -837,6 +839,7 @@ I use this space to track my progress and organize my solutions.
 | [0004-median-of-two-sorted-arrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/KartikSuchak/LeetCode-365/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/KartikSuchak/LeetCode-365/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KartikSuchak/LeetCode-365/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/KartikSuchak/LeetCode-365/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0215-kth-largest-element-in-an-array) |
@@ -904,6 +907,7 @@ I use this space to track my progress and organize my solutions.
 | [0141-linked-list-cycle](https://github.com/KartikSuchak/LeetCode-365/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/KartikSuchak/LeetCode-365/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/KartikSuchak/LeetCode-365/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/KartikSuchak/LeetCode-365/tree/master/0206-reverse-linked-list) |
 ## String Matching
 |  |
@@ -1072,4 +1076,8 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/KartikSuchak/LeetCode-365/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
