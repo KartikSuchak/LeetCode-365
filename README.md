@@ -28,6 +28,7 @@ I use this space to track my progress and organize my solutions.
 | [0070-climbing-stairs](https://github.com/KartikSuchak/LeetCode-365/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/KartikSuchak/LeetCode-365/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/KartikSuchak/LeetCode-365/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/KartikSuchak/LeetCode-365/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/KartikSuchak/LeetCode-365/tree/master/0258-add-digits) |
@@ -350,6 +351,7 @@ I use this space to track my progress and organize my solutions.
 | [0139-word-break](https://github.com/KartikSuchak/LeetCode-365/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/KartikSuchak/LeetCode-365/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/KartikSuchak/LeetCode-365/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/KartikSuchak/LeetCode-365/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0344-reverse-string) |
