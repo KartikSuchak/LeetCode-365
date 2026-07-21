@@ -864,6 +864,7 @@ I use this space to track my progress and organize my solutions.
 | [0176-second-highest-salary](https://github.com/KartikSuchak/LeetCode-365/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/KartikSuchak/LeetCode-365/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/KartikSuchak/LeetCode-365/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/KartikSuchak/LeetCode-365/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/KartikSuchak/LeetCode-365/tree/master/0184-department-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/KartikSuchak/LeetCode-365/tree/master/0570-managers-with-at-least-5-direct-reports) |
