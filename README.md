@@ -657,6 +657,7 @@ I use this space to track my progress and organize my solutions.
 | [0143-reorder-list](https://github.com/KartikSuchak/LeetCode-365/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/KartikSuchak/LeetCode-365/tree/master/0225-implement-stack-using-queues) |
 | [1628-count-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KartikSuchak/LeetCode-365/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2751-robot-collisions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2751-robot-collisions) |
@@ -906,6 +907,7 @@ I use this space to track my progress and organize my solutions.
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/KartikSuchak/LeetCode-365/tree/master/0225-implement-stack-using-queues) |
 | [2195-time-needed-to-buy-tickets](https://github.com/KartikSuchak/LeetCode-365/tree/master/2195-time-needed-to-buy-tickets) |
 ## Linked List
 |  |
@@ -1009,6 +1011,7 @@ I use this space to track my progress and organize my solutions.
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/KartikSuchak/LeetCode-365/tree/master/0225-implement-stack-using-queues) |
 | [1622-fancy-sequence](https://github.com/KartikSuchak/LeetCode-365/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/2069-walking-robot-simulation-ii) |
 ## Depth-First Search
