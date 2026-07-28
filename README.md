@@ -32,6 +32,7 @@ I use this space to track my progress and organize my solutions.
 | [0172-factorial-trailing-zeroes](https://github.com/KartikSuchak/LeetCode-365/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/KartikSuchak/LeetCode-365/tree/master/0258-add-digits) |
+| [0264-ugly-number-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/KartikSuchak/LeetCode-365/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/KartikSuchak/LeetCode-365/tree/master/0326-power-of-three) |
@@ -506,6 +507,7 @@ I use this space to track my progress and organize my solutions.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSuchak/LeetCode-365/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/KartikSuchak/LeetCode-365/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/KartikSuchak/LeetCode-365/tree/master/0152-maximum-product-subarray) |
+| [0264-ugly-number-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0264-ugly-number-ii) |
 | [0396-rotate-function](https://github.com/KartikSuchak/LeetCode-365/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/KartikSuchak/LeetCode-365/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/KartikSuchak/LeetCode-365/tree/master/0799-champagne-tower) |
@@ -594,6 +596,7 @@ I use this space to track my progress and organize my solutions.
 | [0217-contains-duplicate](https://github.com/KartikSuchak/LeetCode-365/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/KartikSuchak/LeetCode-365/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0264-ugly-number-ii) |
 | [0299-bulls-and-cows](https://github.com/KartikSuchak/LeetCode-365/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -902,6 +905,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0264-ugly-number-ii) |
 | [1127-last-stone-weight](https://github.com/KartikSuchak/LeetCode-365/tree/master/1127-last-stone-weight) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/3286-find-a-safe-walk-through-a-grid) |
