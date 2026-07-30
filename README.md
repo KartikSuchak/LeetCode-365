@@ -357,6 +357,7 @@ I use this space to track my progress and organize my solutions.
 | [0168-excel-sheet-column-title](https://github.com/KartikSuchak/LeetCode-365/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/KartikSuchak/LeetCode-365/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/KartikSuchak/LeetCode-365/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/KartikSuchak/LeetCode-365/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/KartikSuchak/LeetCode-365/tree/master/0412-fizz-buzz) |
@@ -600,6 +601,7 @@ I use this space to track my progress and organize my solutions.
 | [0229-majority-element-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/KartikSuchak/LeetCode-365/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0264-ugly-number-ii) |
+| [0290-word-pattern](https://github.com/KartikSuchak/LeetCode-365/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/KartikSuchak/LeetCode-365/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0350-intersection-of-two-arrays-ii) |
