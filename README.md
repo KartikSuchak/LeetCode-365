@@ -182,6 +182,7 @@ I use this space to track my progress and organize my solutions.
 | [0283-move-zeroes](https://github.com/KartikSuchak/LeetCode-365/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/KartikSuchak/LeetCode-365/tree/master/0289-game-of-life) |
+| [0303-range-sum-query-immutable](https://github.com/KartikSuchak/LeetCode-365/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/KartikSuchak/LeetCode-365/tree/master/0396-rotate-function) |
@@ -680,6 +681,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/KartikSuchak/LeetCode-365/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/KartikSuchak/LeetCode-365/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/0930-binary-subarrays-with-sum) |
@@ -1025,6 +1027,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/KartikSuchak/LeetCode-365/tree/master/0225-implement-stack-using-queues) |
+| [0303-range-sum-query-immutable](https://github.com/KartikSuchak/LeetCode-365/tree/master/0303-range-sum-query-immutable) |
 | [1622-fancy-sequence](https://github.com/KartikSuchak/LeetCode-365/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/2069-walking-robot-simulation-ii) |
 ## Depth-First Search
