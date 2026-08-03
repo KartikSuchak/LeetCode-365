@@ -175,6 +175,7 @@ I use this space to track my progress and organize my solutions.
 | [0189-rotate-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KartikSuchak/LeetCode-365/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/KartikSuchak/LeetCode-365/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0240-search-a-2d-matrix-ii) |
@@ -599,6 +600,7 @@ I use this space to track my progress and organize my solutions.
 | [0160-intersection-of-two-linked-lists](https://github.com/KartikSuchak/LeetCode-365/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/KartikSuchak/LeetCode-365/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KartikSuchak/LeetCode-365/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/KartikSuchak/LeetCode-365/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0264-ugly-number-ii) |
@@ -651,6 +653,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KartikSuchak/LeetCode-365/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/KartikSuchak/LeetCode-365/tree/master/0940-fruit-into-baskets) |
