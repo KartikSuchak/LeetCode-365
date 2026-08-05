@@ -104,6 +104,7 @@ I use this space to track my progress and organize my solutions.
 | ------- |
 | [0029-divide-two-integers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/KartikSuchak/LeetCode-365/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/KartikSuchak/LeetCode-365/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/KartikSuchak/LeetCode-365/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0137-single-number-ii) |
@@ -153,6 +154,7 @@ I use this space to track my progress and organize my solutions.
 | [0066-plus-one](https://github.com/KartikSuchak/LeetCode-365/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/KartikSuchak/LeetCode-365/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/KartikSuchak/LeetCode-365/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0088-merge-sorted-array) |
@@ -990,6 +992,7 @@ I use this space to track my progress and organize my solutions.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/KartikSuchak/LeetCode-365/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/KartikSuchak/LeetCode-365/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/KartikSuchak/LeetCode-365/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/KartikSuchak/LeetCode-365/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0113-path-sum-ii) |
