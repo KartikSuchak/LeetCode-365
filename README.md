@@ -414,6 +414,7 @@ I use this space to track my progress and organize my solutions.
 | [3093-longest-common-suffix-queries](https://github.com/KartikSuchak/LeetCode-365/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KartikSuchak/LeetCode-365/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3312-number-of-changing-keys](https://github.com/KartikSuchak/LeetCode-365/tree/master/3312-number-of-changing-keys) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3713-longest-balanced-substring-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3713-longest-balanced-substring-i) |
@@ -541,6 +542,7 @@ I use this space to track my progress and organize my solutions.
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/KartikSuchak/LeetCode-365/tree/master/3225-maximum-score-from-grid-operations) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KartikSuchak/LeetCode-365/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/KartikSuchak/LeetCode-365/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3640-trionic-array-ii) |
 | [3660-jump-game-ix](https://github.com/KartikSuchak/LeetCode-365/tree/master/3660-jump-game-ix) |
@@ -757,6 +759,7 @@ I use this space to track my progress and organize my solutions.
 | [2149-rearrange-array-elements-by-sign](https://github.com/KartikSuchak/LeetCode-365/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KartikSuchak/LeetCode-365/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KartikSuchak/LeetCode-365/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/KartikSuchak/LeetCode-365/tree/master/3643-flip-square-submatrix-vertically) |
@@ -861,6 +864,7 @@ I use this space to track my progress and organize my solutions.
 | [3074-apple-redistribution-into-boxes](https://github.com/KartikSuchak/LeetCode-365/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/KartikSuchak/LeetCode-365/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KartikSuchak/LeetCode-365/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KartikSuchak/LeetCode-365/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3334-apple-redistribution-into-boxes](https://github.com/KartikSuchak/LeetCode-365/tree/master/3334-apple-redistribution-into-boxes) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/KartikSuchak/LeetCode-365/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
