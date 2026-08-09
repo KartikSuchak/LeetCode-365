@@ -53,6 +53,7 @@ I use this space to track my progress and organize my solutions.
 | [1015-smallest-integer-divisible-by-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/1086-divisor-game) |
+| [1140-stone-game-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/1140-stone-game-ii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KartikSuchak/LeetCode-365/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/KartikSuchak/LeetCode-365/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/KartikSuchak/LeetCode-365/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -216,6 +217,7 @@ I use this space to track my progress and organize my solutions.
 | [1019-squares-of-a-sorted-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1019-squares-of-a-sorted-array) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1127-last-stone-weight](https://github.com/KartikSuchak/LeetCode-365/tree/master/1127-last-stone-weight) |
+| [1140-stone-game-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/1140-stone-game-ii) |
 | [1168-duplicate-zeros](https://github.com/KartikSuchak/LeetCode-365/tree/master/1168-duplicate-zeros) |
 | [1306-jump-game-iii](https://github.com/KartikSuchak/LeetCode-365/tree/master/1306-jump-game-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/KartikSuchak/LeetCode-365/tree/master/1310-xor-queries-of-a-subarray) |
@@ -525,6 +527,7 @@ I use this space to track my progress and organize my solutions.
 | [0877-stone-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/1086-divisor-game) |
+| [1140-stone-game-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/1140-stone-game-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/KartikSuchak/LeetCode-365/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/KartikSuchak/LeetCode-365/tree/master/1340-jump-game-v) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -696,6 +699,7 @@ I use this space to track my progress and organize my solutions.
 | [0525-contiguous-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/0930-binary-subarrays-with-sum) |
+| [1140-stone-game-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/1140-stone-game-ii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/KartikSuchak/LeetCode-365/tree/master/1310-xor-queries-of-a-subarray) |
 | [1603-running-sum-of-1d-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1603-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/KartikSuchak/LeetCode-365/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -916,6 +920,7 @@ I use this space to track my progress and organize my solutions.
 | [0877-stone-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/1086-divisor-game) |
+| [1140-stone-game-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/1140-stone-game-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -1134,4 +1139,12 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/KartikSuchak/LeetCode-365/tree/master/0148-sort-list) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
