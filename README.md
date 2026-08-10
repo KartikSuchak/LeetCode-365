@@ -359,6 +359,7 @@ I use this space to track my progress and organize my solutions.
 | [0049-group-anagrams](https://github.com/KartikSuchak/LeetCode-365/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/KartikSuchak/LeetCode-365/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/KartikSuchak/LeetCode-365/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/KartikSuchak/LeetCode-365/tree/master/0071-simplify-path) |
 | [0093-restore-ip-addresses](https://github.com/KartikSuchak/LeetCode-365/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/KartikSuchak/LeetCode-365/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/KartikSuchak/LeetCode-365/tree/master/0139-word-break) |
@@ -677,6 +678,7 @@ I use this space to track my progress and organize my solutions.
 | ------- |
 | [0020-valid-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KartikSuchak/LeetCode-365/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/KartikSuchak/LeetCode-365/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/KartikSuchak/LeetCode-365/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0144-binary-tree-preorder-traversal) |
