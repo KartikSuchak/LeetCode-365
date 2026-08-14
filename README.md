@@ -157,6 +157,7 @@ I use this space to track my progress and organize my solutions.
 | [0059-spiral-matrix-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/KartikSuchak/LeetCode-365/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/KartikSuchak/LeetCode-365/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/KartikSuchak/LeetCode-365/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/KartikSuchak/LeetCode-365/tree/master/0078-subsets) |
@@ -567,6 +568,7 @@ I use this space to track my progress and organize my solutions.
 | [0054-spiral-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/KartikSuchak/LeetCode-365/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/KartikSuchak/LeetCode-365/tree/master/0289-game-of-life) |
@@ -610,6 +612,7 @@ I use this space to track my progress and organize my solutions.
 | [0036-valid-sudoku](https://github.com/KartikSuchak/LeetCode-365/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/KartikSuchak/LeetCode-365/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/KartikSuchak/LeetCode-365/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/KartikSuchak/LeetCode-365/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/KartikSuchak/LeetCode-365/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/KartikSuchak/LeetCode-365/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/KartikSuchak/LeetCode-365/tree/master/0141-linked-list-cycle) |
