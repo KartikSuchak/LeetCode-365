@@ -116,6 +116,7 @@ I use this space to track my progress and organize my solutions.
 | [0287-find-the-duplicate-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/KartikSuchak/LeetCode-365/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/KartikSuchak/LeetCode-365/tree/master/0401-binary-watch) |
+| [0476-number-complement](https://github.com/KartikSuchak/LeetCode-365/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/KartikSuchak/LeetCode-365/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/KartikSuchak/LeetCode-365/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/KartikSuchak/LeetCode-365/tree/master/0868-binary-gap) |
