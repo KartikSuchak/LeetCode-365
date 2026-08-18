@@ -381,6 +381,7 @@ I use this space to track my progress and organize my solutions.
 | [0415-add-strings](https://github.com/KartikSuchak/LeetCode-365/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/KartikSuchak/LeetCode-365/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0443-string-compression](https://github.com/KartikSuchak/LeetCode-365/tree/master/0443-string-compression) |
+| [0482-license-key-formatting](https://github.com/KartikSuchak/LeetCode-365/tree/master/0482-license-key-formatting) |
 | [0657-robot-return-to-origin](https://github.com/KartikSuchak/LeetCode-365/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/KartikSuchak/LeetCode-365/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0761-special-binary-string) |
