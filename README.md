@@ -43,6 +43,7 @@ I use this space to track my progress and organize my solutions.
 | [0415-add-strings](https://github.com/KartikSuchak/LeetCode-365/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/KartikSuchak/LeetCode-365/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0441-arranging-coins](https://github.com/KartikSuchak/LeetCode-365/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/KartikSuchak/LeetCode-365/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
