@@ -370,6 +370,7 @@ I use this space to track my progress and organize my solutions.
 | [0058-length-of-last-word](https://github.com/KartikSuchak/LeetCode-365/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/KartikSuchak/LeetCode-365/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/KartikSuchak/LeetCode-365/tree/master/0071-simplify-path) |
+| [0091-decode-ways](https://github.com/KartikSuchak/LeetCode-365/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/KartikSuchak/LeetCode-365/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/KartikSuchak/LeetCode-365/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/KartikSuchak/LeetCode-365/tree/master/0139-word-break) |
@@ -530,6 +531,7 @@ I use this space to track my progress and organize my solutions.
 | [0062-unique-paths](https://github.com/KartikSuchak/LeetCode-365/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/KartikSuchak/LeetCode-365/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/KartikSuchak/LeetCode-365/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSuchak/LeetCode-365/tree/master/0121-best-time-to-buy-and-sell-stock) |
