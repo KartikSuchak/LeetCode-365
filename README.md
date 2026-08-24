@@ -452,6 +452,7 @@ I use this space to track my progress and organize my solutions.
 | [0349-intersection-of-two-arrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/KartikSuchak/LeetCode-365/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/KartikSuchak/LeetCode-365/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/KartikSuchak/LeetCode-365/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/KartikSuchak/LeetCode-365/tree/master/0792-binary-search) |
@@ -1178,4 +1179,8 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/0022-generate-parentheses) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/KartikSuchak/LeetCode-365/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
