@@ -205,6 +205,7 @@ I use this space to track my progress and organize my solutions.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/KartikSuchak/LeetCode-365/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/KartikSuchak/LeetCode-365/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/0560-subarray-sum-equals-k) |
@@ -642,6 +643,7 @@ I use this space to track my progress and organize my solutions.
 | [0423-reconstruct-original-digits-from-english](https://github.com/KartikSuchak/LeetCode-365/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/KartikSuchak/LeetCode-365/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/0560-subarray-sum-equals-k) |
@@ -706,6 +708,7 @@ I use this space to track my progress and organize my solutions.
 | [0145-binary-tree-postorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/KartikSuchak/LeetCode-365/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/KartikSuchak/LeetCode-365/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/0496-next-greater-element-i) |
 | [1628-count-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KartikSuchak/LeetCode-365/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2751-robot-collisions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2751-robot-collisions) |
@@ -713,6 +716,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KartikSuchak/LeetCode-365/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/0496-next-greater-element-i) |
 | [1628-count-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1628-count-submatrices-with-all-ones) |
 ## Prefix Sum
 |  |
