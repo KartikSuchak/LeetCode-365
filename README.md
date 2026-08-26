@@ -206,6 +206,7 @@ I use this space to track my progress and organize my solutions.
 | [0485-max-consecutive-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/KartikSuchak/LeetCode-365/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/KartikSuchak/LeetCode-365/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/KartikSuchak/LeetCode-365/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/0560-subarray-sum-equals-k) |
@@ -387,6 +388,7 @@ I use this space to track my progress and organize my solutions.
 | [0423-reconstruct-original-digits-from-english](https://github.com/KartikSuchak/LeetCode-365/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0443-string-compression](https://github.com/KartikSuchak/LeetCode-365/tree/master/0443-string-compression) |
 | [0482-license-key-formatting](https://github.com/KartikSuchak/LeetCode-365/tree/master/0482-license-key-formatting) |
+| [0500-keyboard-row](https://github.com/KartikSuchak/LeetCode-365/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/KartikSuchak/LeetCode-365/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/KartikSuchak/LeetCode-365/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0761-special-binary-string) |
@@ -644,6 +646,7 @@ I use this space to track my progress and organize my solutions.
 | [0442-find-all-duplicates-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/KartikSuchak/LeetCode-365/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/KartikSuchak/LeetCode-365/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/0560-subarray-sum-equals-k) |
