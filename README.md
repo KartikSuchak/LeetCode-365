@@ -118,6 +118,7 @@ I use this space to track my progress and organize my solutions.
 | [0342-power-of-four](https://github.com/KartikSuchak/LeetCode-365/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/KartikSuchak/LeetCode-365/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/KartikSuchak/LeetCode-365/tree/master/0476-number-complement) |
+| [0526-beautiful-arrangement](https://github.com/KartikSuchak/LeetCode-365/tree/master/0526-beautiful-arrangement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/KartikSuchak/LeetCode-365/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/KartikSuchak/LeetCode-365/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/KartikSuchak/LeetCode-365/tree/master/0868-binary-gap) |
@@ -209,6 +210,7 @@ I use this space to track my progress and organize my solutions.
 | [0500-keyboard-row](https://github.com/KartikSuchak/LeetCode-365/tree/master/0500-keyboard-row) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0525-contiguous-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0525-contiguous-array) |
+| [0526-beautiful-arrangement](https://github.com/KartikSuchak/LeetCode-365/tree/master/0526-beautiful-arrangement) |
 | [0554-brick-wall](https://github.com/KartikSuchak/LeetCode-365/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0605-can-place-flowers) |
@@ -547,6 +549,7 @@ I use this space to track my progress and organize my solutions.
 | [0152-maximum-product-subarray](https://github.com/KartikSuchak/LeetCode-365/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0264-ugly-number-ii) |
 | [0396-rotate-function](https://github.com/KartikSuchak/LeetCode-365/tree/master/0396-rotate-function) |
+| [0526-beautiful-arrangement](https://github.com/KartikSuchak/LeetCode-365/tree/master/0526-beautiful-arrangement) |
 | [0788-rotated-digits](https://github.com/KartikSuchak/LeetCode-365/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/KartikSuchak/LeetCode-365/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0877-stone-game) |
@@ -1053,6 +1056,7 @@ I use this space to track my progress and organize my solutions.
 | [0093-restore-ip-addresses](https://github.com/KartikSuchak/LeetCode-365/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0113-path-sum-ii) |
 | [0401-binary-watch](https://github.com/KartikSuchak/LeetCode-365/tree/master/0401-binary-watch) |
+| [0526-beautiful-arrangement](https://github.com/KartikSuchak/LeetCode-365/tree/master/0526-beautiful-arrangement) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KartikSuchak/LeetCode-365/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/1980-find-unique-binary-string) |
 ## Trie
@@ -1198,4 +1202,8 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/KartikSuchak/LeetCode-365/tree/master/0374-guess-number-higher-or-lower) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/KartikSuchak/LeetCode-365/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
