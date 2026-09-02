@@ -1113,6 +1113,7 @@ I use this space to track my progress and organize my solutions.
 | [0144-binary-tree-preorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0543-diameter-of-binary-tree) |
 | [1306-jump-game-iii](https://github.com/KartikSuchak/LeetCode-365/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1156,6 +1157,7 @@ I use this space to track my progress and organize my solutions.
 | [0144-binary-tree-preorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0543-diameter-of-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
@@ -1173,6 +1175,7 @@ I use this space to track my progress and organize my solutions.
 | [0144-binary-tree-preorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0543-diameter-of-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Shortest Path
 |  |
@@ -1206,4 +1209,8 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/KartikSuchak/LeetCode-365/tree/master/0526-beautiful-arrangement) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
