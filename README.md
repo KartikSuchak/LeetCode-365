@@ -395,6 +395,7 @@ I use this space to track my progress and organize my solutions.
 | [0520-detect-capital](https://github.com/KartikSuchak/LeetCode-365/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0551-student-attendance-record-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/KartikSuchak/LeetCode-365/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/KartikSuchak/LeetCode-365/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0761-special-binary-string) |
