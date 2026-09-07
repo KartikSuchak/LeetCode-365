@@ -200,6 +200,7 @@ I use this space to track my progress and organize my solutions.
 | [0303-range-sum-query-immutable](https://github.com/KartikSuchak/LeetCode-365/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/KartikSuchak/LeetCode-365/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0396-rotate-function](https://github.com/KartikSuchak/LeetCode-365/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -983,6 +984,7 @@ I use this space to track my progress and organize my solutions.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0264-ugly-number-ii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/KartikSuchak/LeetCode-365/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1127-last-stone-weight](https://github.com/KartikSuchak/LeetCode-365/tree/master/1127-last-stone-weight) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/3286-find-a-safe-walk-through-a-grid) |
