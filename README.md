@@ -38,6 +38,7 @@ I use this space to track my progress and organize my solutions.
 | [0326-power-of-three](https://github.com/KartikSuchak/LeetCode-365/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KartikSuchak/LeetCode-365/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/KartikSuchak/LeetCode-365/tree/master/0367-valid-perfect-square) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0396-rotate-function](https://github.com/KartikSuchak/LeetCode-365/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/KartikSuchak/LeetCode-365/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/KartikSuchak/LeetCode-365/tree/master/0415-add-strings) |
@@ -552,6 +553,7 @@ I use this space to track my progress and organize my solutions.
 | [0139-word-break](https://github.com/KartikSuchak/LeetCode-365/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/KartikSuchak/LeetCode-365/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0264-ugly-number-ii) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0396-rotate-function](https://github.com/KartikSuchak/LeetCode-365/tree/master/0396-rotate-function) |
 | [0526-beautiful-arrangement](https://github.com/KartikSuchak/LeetCode-365/tree/master/0526-beautiful-arrangement) |
 | [0788-rotated-digits](https://github.com/KartikSuchak/LeetCode-365/tree/master/0788-rotated-digits) |
@@ -969,6 +971,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0877-stone-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/1086-divisor-game) |
@@ -1202,6 +1205,7 @@ I use this space to track my progress and organize my solutions.
 ## Minimax
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1140-stone-game-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/1140-stone-game-ii) |
 ## Zero-Sum Game
 |  |
