@@ -389,6 +389,7 @@ I use this space to track my progress and organize my solutions.
 | [0290-word-pattern](https://github.com/KartikSuchak/LeetCode-365/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/KartikSuchak/LeetCode-365/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/KartikSuchak/LeetCode-365/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/KartikSuchak/LeetCode-365/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/KartikSuchak/LeetCode-365/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -793,6 +794,7 @@ I use this space to track my progress and organize my solutions.
 | [0283-move-zeroes](https://github.com/KartikSuchak/LeetCode-365/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/KartikSuchak/LeetCode-365/tree/master/0443-string-compression) |
