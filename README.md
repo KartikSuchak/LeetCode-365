@@ -361,6 +361,7 @@ I use this space to track my progress and organize my solutions.
 | [3742-maximum-path-score-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/KartikSuchak/LeetCode-365/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3790-fruits-into-baskets-ii) |
+| [3903-smallest-stable-index-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3903-smallest-stable-index-i) |
 | [4058-compute-alternating-sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/4058-compute-alternating-sum) |
 ## String
 |  |
@@ -771,6 +772,7 @@ I use this space to track my progress and organize my solutions.
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/KartikSuchak/LeetCode-365/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KartikSuchak/LeetCode-365/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3903-smallest-stable-index-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
