@@ -92,6 +92,7 @@ I use this space to track my progress and organize my solutions.
 | [3783-mirror-distance-of-an-integer](https://github.com/KartikSuchak/LeetCode-365/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/KartikSuchak/LeetCode-365/tree/master/3830-find-closest-person) |
 | [3870-count-commas-in-range](https://github.com/KartikSuchak/LeetCode-365/tree/master/3870-count-commas-in-range) |
+| [3875-construct-uniform-parity-array-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -361,6 +362,7 @@ I use this space to track my progress and organize my solutions.
 | [3742-maximum-path-score-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/KartikSuchak/LeetCode-365/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3790-fruits-into-baskets-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3903-smallest-stable-index-i) |
 | [4058-compute-alternating-sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/4058-compute-alternating-sum) |
 ## String
