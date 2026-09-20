@@ -459,6 +459,7 @@ I use this space to track my progress and organize my solutions.
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KartikSuchak/LeetCode-365/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3312-number-of-changing-keys](https://github.com/KartikSuchak/LeetCode-365/tree/master/3312-number-of-changing-keys) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/3498-reverse-degree-of-a-string) |
 | [3713-longest-balanced-substring-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Search
 |  |
@@ -539,6 +540,7 @@ I use this space to track my progress and organize my solutions.
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3336-water-bottles-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/3379-transformed-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/3498-reverse-degree-of-a-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3790-fruits-into-baskets-ii) |
 | [4058-compute-alternating-sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/4058-compute-alternating-sum) |
