@@ -316,6 +316,7 @@ I use this space to track my progress and organize my solutions.
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/KartikSuchak/LeetCode-365/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/KartikSuchak/LeetCode-365/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/KartikSuchak/LeetCode-365/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/KartikSuchak/LeetCode-365/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -537,6 +538,7 @@ I use this space to track my progress and organize my solutions.
 | [2553-separate-the-digits-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KartikSuchak/LeetCode-365/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3100-water-bottles-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3100-water-bottles-ii) |
 | [3311-ant-on-the-boundary](https://github.com/KartikSuchak/LeetCode-365/tree/master/3311-ant-on-the-boundary) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
@@ -837,6 +839,7 @@ I use this space to track my progress and organize my solutions.
 | [2149-rearrange-array-elements-by-sign](https://github.com/KartikSuchak/LeetCode-365/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KartikSuchak/LeetCode-365/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KartikSuchak/LeetCode-365/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
