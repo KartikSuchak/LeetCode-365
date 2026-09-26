@@ -85,6 +85,7 @@ I use this space to track my progress and organize my solutions.
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KartikSuchak/LeetCode-365/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KartikSuchak/LeetCode-365/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3524-find-x-value-of-array-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3524-find-x-value-of-array-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/KartikSuchak/LeetCode-365/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KartikSuchak/LeetCode-365/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/KartikSuchak/LeetCode-365/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -903,6 +904,7 @@ I use this space to track my progress and organize my solutions.
 | [3321-type-of-triangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/KartikSuchak/LeetCode-365/tree/master/3334-apple-redistribution-into-boxes) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KartikSuchak/LeetCode-365/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3536-maximum-product-of-two-digits](https://github.com/KartikSuchak/LeetCode-365/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/3634-minimum-removals-to-balance-array) |
