@@ -46,6 +46,7 @@ I use this space to track my progress and organize my solutions.
 | [0441-arranging-coins](https://github.com/KartikSuchak/LeetCode-365/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/KartikSuchak/LeetCode-365/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/KartikSuchak/LeetCode-365/tree/master/0788-rotated-digits) |
@@ -226,6 +227,7 @@ I use this space to track my progress and organize my solutions.
 | [0560-subarray-sum-equals-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/KartikSuchak/LeetCode-365/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/KartikSuchak/LeetCode-365/tree/master/0792-binary-search) |
 | [0874-walking-robot-simulation](https://github.com/KartikSuchak/LeetCode-365/tree/master/0874-walking-robot-simulation) |
@@ -876,6 +878,7 @@ I use this space to track my progress and organize my solutions.
 | [0414-third-maximum-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0414-third-maximum-number) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0561-array-partition](https://github.com/KartikSuchak/LeetCode-365/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0761-special-binary-string) |
 | [0881-boats-to-save-people](https://github.com/KartikSuchak/LeetCode-365/tree/master/0881-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/1018-largest-perimeter-triangle) |
