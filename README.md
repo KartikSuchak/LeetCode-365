@@ -247,6 +247,7 @@ I use this space to track my progress and organize my solutions.
 | [1127-last-stone-weight](https://github.com/KartikSuchak/LeetCode-365/tree/master/1127-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/1140-stone-game-ii) |
 | [1168-duplicate-zeros](https://github.com/KartikSuchak/LeetCode-365/tree/master/1168-duplicate-zeros) |
+| [1260-shift-2d-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/KartikSuchak/LeetCode-365/tree/master/1306-jump-game-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/KartikSuchak/LeetCode-365/tree/master/1310-xor-queries-of-a-subarray) |
 | [1340-jump-game-v](https://github.com/KartikSuchak/LeetCode-365/tree/master/1340-jump-game-v) |
@@ -531,6 +532,7 @@ I use this space to track my progress and organize my solutions.
 | [0495-teemo-attacking](https://github.com/KartikSuchak/LeetCode-365/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/KartikSuchak/LeetCode-365/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/KartikSuchak/LeetCode-365/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/KartikSuchak/LeetCode-365/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/KartikSuchak/LeetCode-365/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -627,6 +629,7 @@ I use this space to track my progress and organize my solutions.
 | [0074-search-a-2d-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/KartikSuchak/LeetCode-365/tree/master/0289-game-of-life) |
+| [1260-shift-2d-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1402-count-square-submatrices-with-all-ones) |
