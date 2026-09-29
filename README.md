@@ -70,6 +70,7 @@ I use this space to track my progress and organize my solutions.
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1903-largest-odd-number-in-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/KartikSuchak/LeetCode-365/tree/master/1925-count-square-sum-triples) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/KartikSuchak/LeetCode-365/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/KartikSuchak/LeetCode-365/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -284,6 +285,7 @@ I use this space to track my progress and organize my solutions.
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KartikSuchak/LeetCode-365/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1914-cyclically-rotating-a-grid) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/1980-find-unique-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KartikSuchak/LeetCode-365/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -1029,6 +1031,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/KartikSuchak/LeetCode-365/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/KartikSuchak/LeetCode-365/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3765-complete-prime-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/3765-complete-prime-number) |
 ## Heap (Priority Queue)
@@ -1281,4 +1284,12 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0543-diameter-of-binary-tree) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
