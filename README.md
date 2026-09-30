@@ -91,6 +91,7 @@ I use this space to track my progress and organize my solutions.
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KartikSuchak/LeetCode-365/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/KartikSuchak/LeetCode-365/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/KartikSuchak/LeetCode-365/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -1033,6 +1034,7 @@ I use this space to track my progress and organize my solutions.
 | [0258-add-digits](https://github.com/KartikSuchak/LeetCode-365/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/KartikSuchak/LeetCode-365/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/KartikSuchak/LeetCode-365/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/3765-complete-prime-number) |
 ## Heap (Priority Queue)
 |  |
