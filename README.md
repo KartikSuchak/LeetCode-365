@@ -440,6 +440,7 @@ I use this space to track my progress and organize my solutions.
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/KartikSuchak/LeetCode-365/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/KartikSuchak/LeetCode-365/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KartikSuchak/LeetCode-365/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/KartikSuchak/LeetCode-365/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -768,6 +769,7 @@ I use this space to track my progress and organize my solutions.
 | [0225-implement-stack-using-queues](https://github.com/KartikSuchak/LeetCode-365/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/KartikSuchak/LeetCode-365/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/0496-next-greater-element-i) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KartikSuchak/LeetCode-365/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2751-robot-collisions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2751-robot-collisions) |
@@ -1274,6 +1276,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Interactive
 |  |
 | ------- |
