@@ -44,6 +44,7 @@ I use this space to track my progress and organize my solutions.
 | [0415-add-strings](https://github.com/KartikSuchak/LeetCode-365/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/KartikSuchak/LeetCode-365/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0441-arranging-coins](https://github.com/KartikSuchak/LeetCode-365/tree/master/0441-arranging-coins) |
+| [0486-predict-the-winner](https://github.com/KartikSuchak/LeetCode-365/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0628-maximum-product-of-three-numbers) |
@@ -114,6 +115,7 @@ I use this space to track my progress and organize my solutions.
 | [0234-palindrome-linked-list](https://github.com/KartikSuchak/LeetCode-365/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/KartikSuchak/LeetCode-365/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KartikSuchak/LeetCode-365/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/KartikSuchak/LeetCode-365/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KartikSuchak/LeetCode-365/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bit Manipulation
@@ -220,6 +222,7 @@ I use this space to track my progress and organize my solutions.
 | [0442-find-all-duplicates-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/KartikSuchak/LeetCode-365/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/KartikSuchak/LeetCode-365/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/KartikSuchak/LeetCode-365/tree/master/0500-keyboard-row) |
@@ -590,6 +593,7 @@ I use this space to track my progress and organize my solutions.
 | [0264-ugly-number-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0264-ugly-number-ii) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0396-rotate-function](https://github.com/KartikSuchak/LeetCode-365/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/KartikSuchak/LeetCode-365/tree/master/0486-predict-the-winner) |
 | [0526-beautiful-arrangement](https://github.com/KartikSuchak/LeetCode-365/tree/master/0526-beautiful-arrangement) |
 | [0788-rotated-digits](https://github.com/KartikSuchak/LeetCode-365/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/KartikSuchak/LeetCode-365/tree/master/0799-champagne-tower) |
@@ -1029,6 +1033,7 @@ I use this space to track my progress and organize my solutions.
 | ------- |
 | [0292-nim-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0486-predict-the-winner](https://github.com/KartikSuchak/LeetCode-365/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/1086-divisor-game) |
@@ -1270,10 +1275,12 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0486-predict-the-winner](https://github.com/KartikSuchak/LeetCode-365/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/1140-stone-game-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/KartikSuchak/LeetCode-365/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/1140-stone-game-ii) |
 ## Bracket Sequences
 |  |
