@@ -432,6 +432,7 @@ I use this space to track my progress and organize my solutions.
 | [0551-student-attendance-record-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/KartikSuchak/LeetCode-365/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/KartikSuchak/LeetCode-365/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0796-rotate-string) |
@@ -596,6 +597,7 @@ I use this space to track my progress and organize my solutions.
 | [0396-rotate-function](https://github.com/KartikSuchak/LeetCode-365/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/KartikSuchak/LeetCode-365/tree/master/0486-predict-the-winner) |
 | [0526-beautiful-arrangement](https://github.com/KartikSuchak/LeetCode-365/tree/master/0526-beautiful-arrangement) |
+| [0678-valid-parenthesis-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/KartikSuchak/LeetCode-365/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/KartikSuchak/LeetCode-365/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0877-stone-game) |
@@ -776,6 +778,7 @@ I use this space to track my progress and organize my solutions.
 | [0225-implement-stack-using-queues](https://github.com/KartikSuchak/LeetCode-365/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/KartikSuchak/LeetCode-365/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1628-count-submatrices-with-all-ones) |
@@ -965,6 +968,7 @@ I use this space to track my progress and organize my solutions.
 | [0135-candy](https://github.com/KartikSuchak/LeetCode-365/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/KartikSuchak/LeetCode-365/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/KartikSuchak/LeetCode-365/tree/master/0881-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/1018-largest-perimeter-triangle) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -1288,6 +1292,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Interactive
