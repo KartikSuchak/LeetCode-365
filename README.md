@@ -438,6 +438,7 @@ I use this space to track my progress and organize my solutions.
 | [0796-rotate-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/0856-score-of-parentheses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/KartikSuchak/LeetCode-365/tree/master/0944-delete-columns-to-make-sorted) |
+| [1021-remove-outermost-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/KartikSuchak/LeetCode-365/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/KartikSuchak/LeetCode-365/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KartikSuchak/LeetCode-365/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -780,6 +781,7 @@ I use this space to track my progress and organize my solutions.
 | [0496-next-greater-element-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KartikSuchak/LeetCode-365/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -1294,6 +1296,7 @@ I use this space to track my progress and organize my solutions.
 | [0022-generate-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Interactive
 |  |
