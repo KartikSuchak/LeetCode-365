@@ -446,6 +446,7 @@ I use this space to track my progress and organize my solutions.
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KartikSuchak/LeetCode-365/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/KartikSuchak/LeetCode-365/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/KartikSuchak/LeetCode-365/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -782,6 +783,7 @@ I use this space to track my progress and organize my solutions.
 | [0678-valid-parenthesis-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/KartikSuchak/LeetCode-365/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KartikSuchak/LeetCode-365/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -975,6 +977,7 @@ I use this space to track my progress and organize my solutions.
 | [1018-largest-perimeter-triangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/1018-largest-perimeter-triangle) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KartikSuchak/LeetCode-365/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/KartikSuchak/LeetCode-365/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/KartikSuchak/LeetCode-365/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -1297,6 +1300,7 @@ I use this space to track my progress and organize my solutions.
 | [0678-valid-parenthesis-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KartikSuchak/LeetCode-365/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Interactive
 |  |
