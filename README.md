@@ -325,6 +325,7 @@ I use this space to track my progress and organize my solutions.
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2751-robot-collisions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KartikSuchak/LeetCode-365/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KartikSuchak/LeetCode-365/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/KartikSuchak/LeetCode-365/tree/master/2784-check-if-array-is-good) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/KartikSuchak/LeetCode-365/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2906-construct-product-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/2906-construct-product-matrix) |
@@ -1126,6 +1127,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/KartikSuchak/LeetCode-365/tree/master/1925-count-square-sum-triples) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KartikSuchak/LeetCode-365/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/KartikSuchak/LeetCode-365/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3345-smallest-divisible-digit-product-i) |
