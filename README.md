@@ -236,6 +236,7 @@ I use this space to track my progress and organize my solutions.
 | [0628-maximum-product-of-three-numbers](https://github.com/KartikSuchak/LeetCode-365/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/KartikSuchak/LeetCode-365/tree/master/0792-binary-search) |
+| [0835-image-overlap](https://github.com/KartikSuchak/LeetCode-365/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/KartikSuchak/LeetCode-365/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/KartikSuchak/LeetCode-365/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/KartikSuchak/LeetCode-365/tree/master/0877-stone-game) |
@@ -647,6 +648,7 @@ I use this space to track my progress and organize my solutions.
 | [0074-search-a-2d-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/KartikSuchak/LeetCode-365/tree/master/0289-game-of-life) |
+| [0835-image-overlap](https://github.com/KartikSuchak/LeetCode-365/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
