@@ -258,6 +258,7 @@ I use this space to track my progress and organize my solutions.
 | [1260-shift-2d-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/KartikSuchak/LeetCode-365/tree/master/1306-jump-game-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/KartikSuchak/LeetCode-365/tree/master/1310-xor-queries-of-a-subarray) |
+| [1331-rank-transform-of-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/KartikSuchak/LeetCode-365/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/KartikSuchak/LeetCode-365/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -728,6 +729,7 @@ I use this space to track my progress and organize my solutions.
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/KartikSuchak/LeetCode-365/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/KartikSuchak/LeetCode-365/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/KartikSuchak/LeetCode-365/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KartikSuchak/LeetCode-365/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/KartikSuchak/LeetCode-365/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
@@ -917,6 +919,7 @@ I use this space to track my progress and organize my solutions.
 | [0881-boats-to-save-people](https://github.com/KartikSuchak/LeetCode-365/tree/master/0881-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/KartikSuchak/LeetCode-365/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1019-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/KartikSuchak/LeetCode-365/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KartikSuchak/LeetCode-365/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/KartikSuchak/LeetCode-365/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
