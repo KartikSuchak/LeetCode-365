@@ -338,6 +338,7 @@ I use this space to track my progress and organize my solutions.
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KartikSuchak/LeetCode-365/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/KartikSuchak/LeetCode-365/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/KartikSuchak/LeetCode-365/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/KartikSuchak/LeetCode-365/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -754,6 +755,7 @@ I use this space to track my progress and organize my solutions.
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/KartikSuchak/LeetCode-365/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/KartikSuchak/LeetCode-365/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/KartikSuchak/LeetCode-365/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KartikSuchak/LeetCode-365/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -1149,6 +1151,7 @@ I use this space to track my progress and organize my solutions.
 | [2778-sum-of-squares-of-special-elements](https://github.com/KartikSuchak/LeetCode-365/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/KartikSuchak/LeetCode-365/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/KartikSuchak/LeetCode-365/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KartikSuchak/LeetCode-365/tree/master/3483-unique-3-digit-even-numbers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3548-equal-sum-grid-partition-ii) |
