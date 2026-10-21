@@ -389,6 +389,7 @@ I use this space to track my progress and organize my solutions.
 | [3718-smallest-missing-multiple-of-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KartikSuchak/LeetCode-365/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/KartikSuchak/LeetCode-365/tree/master/3731-find-missing-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -544,6 +545,7 @@ I use this space to track my progress and organize my solutions.
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3161-block-placement-queries](https://github.com/KartikSuchak/LeetCode-365/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3790-fruits-into-baskets-ii) |
 ## Simulation
 |  |
@@ -769,6 +771,7 @@ I use this space to track my progress and organize my solutions.
 | [3713-longest-balanced-substring-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3713-longest-balanced-substring-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/KartikSuchak/LeetCode-365/tree/master/3731-find-missing-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/KartikSuchak/LeetCode-365/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -844,6 +847,7 @@ I use this space to track my progress and organize my solutions.
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/KartikSuchak/LeetCode-365/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KartikSuchak/LeetCode-365/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
@@ -986,6 +990,7 @@ I use this space to track my progress and organize my solutions.
 | [2833-furthest-point-from-origin](https://github.com/KartikSuchak/LeetCode-365/tree/master/2833-furthest-point-from-origin) |
 | [3583-count-special-triplets](https://github.com/KartikSuchak/LeetCode-365/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -1041,6 +1046,7 @@ I use this space to track my progress and organize my solutions.
 | [0761-special-binary-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0761-special-binary-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Database
 |  |
 | ------- |
@@ -1312,6 +1318,7 @@ I use this space to track my progress and organize my solutions.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/KartikSuchak/LeetCode-365/tree/master/0148-sort-list) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Minimax
 |  |
 | ------- |
