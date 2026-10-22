@@ -497,6 +497,7 @@ I use this space to track my progress and organize my solutions.
 | [3498-reverse-degree-of-a-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3713-longest-balanced-substring-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Binary Search
 |  |
 | ------- |
