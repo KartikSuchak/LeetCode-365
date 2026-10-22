@@ -1,17 +1,24 @@
-import java.util.*;
-
 class Solution {
     public int minOperations(String s) {
         int n = s.length();
-        if (IntStream.range(1, n).allMatch(i -> s.charAt(i - 1) <= s.charAt(i))) return 0; 
+        char min = s.charAt(0), max = s.charAt(0);
+        boolean isSorted = true;
 
-        if (n == 2) return -1;  
+        for (int i = 1; i < n; i++) {
+            if (s.charAt(i) < s.charAt(i - 1)) isSorted = false;
+            if (s.charAt(i) < min) min = s.charAt(i);
+            if (s.charAt(i) > max) max = s.charAt(i);
+        }
 
-        IntSummaryStatistics mid = s.chars().skip(1).limit(n - 2).summaryStatistics(); 
+        if (isSorted) return 0;
+        if (n == 2) return -1;
+        if (s.charAt(0) == min || s.charAt(n - 1) == max)
+            return 1;
 
-        int first = s.charAt(0), last = s.charAt(n - 1), lo = mid.getMin(), hi = mid.getMax();
-        if (first <= Math.min(lo, last) || Math.max(first, hi) <= last) return 1; 
+        for (int i = 1; i < n - 1; i++)
+            if (s.charAt(i) == min || s.charAt(i) == max)
+                return 2;
 
-        return last < lo && hi < first ? 3 : 2;  
+        return 3;
     }
 }
