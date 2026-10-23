@@ -149,6 +149,7 @@ I use this space to track my progress and organize my solutions.
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/KartikSuchak/LeetCode-365/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/KartikSuchak/LeetCode-365/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/KartikSuchak/LeetCode-365/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Array
 |  |
 | ------- |
@@ -380,6 +381,7 @@ I use this space to track my progress and organize my solutions.
 | [3637-trionic-array-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/KartikSuchak/LeetCode-365/tree/master/3643-flip-square-submatrix-vertically) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/KartikSuchak/LeetCode-365/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/KartikSuchak/LeetCode-365/tree/master/3660-jump-game-ix) |
