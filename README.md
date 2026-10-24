@@ -76,6 +76,7 @@ I use this space to track my progress and organize my solutions.
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/KartikSuchak/LeetCode-365/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/KartikSuchak/LeetCode-365/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2409-count-days-spent-together](https://github.com/KartikSuchak/LeetCode-365/tree/master/2409-count-days-spent-together) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2649-count-total-number-of-colored-cells](https://github.com/KartikSuchak/LeetCode-365/tree/master/2649-count-total-number-of-colored-cells) |
@@ -481,6 +482,7 @@ I use this space to track my progress and organize my solutions.
 | [2292-counting-words-with-a-given-prefix](https://github.com/KartikSuchak/LeetCode-365/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/KartikSuchak/LeetCode-365/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/KartikSuchak/LeetCode-365/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/KartikSuchak/LeetCode-365/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
