@@ -258,6 +258,7 @@ I use this space to track my progress and organize my solutions.
 | [1127-last-stone-weight](https://github.com/KartikSuchak/LeetCode-365/tree/master/1127-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/1140-stone-game-ii) |
 | [1168-duplicate-zeros](https://github.com/KartikSuchak/LeetCode-365/tree/master/1168-duplicate-zeros) |
+| [1254-number-of-closed-islands](https://github.com/KartikSuchak/LeetCode-365/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/KartikSuchak/LeetCode-365/tree/master/1306-jump-game-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/KartikSuchak/LeetCode-365/tree/master/1310-xor-queries-of-a-subarray) |
@@ -667,6 +668,7 @@ I use this space to track my progress and organize my solutions.
 | [0240-search-a-2d-matrix-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/KartikSuchak/LeetCode-365/tree/master/0289-game-of-life) |
 | [0835-image-overlap](https://github.com/KartikSuchak/LeetCode-365/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/KartikSuchak/LeetCode-365/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KartikSuchak/LeetCode-365/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1210,6 +1212,7 @@ I use this space to track my progress and organize my solutions.
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/KartikSuchak/LeetCode-365/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/KartikSuchak/LeetCode-365/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -1246,6 +1249,7 @@ I use this space to track my progress and organize my solutions.
 | [0145-binary-tree-postorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0543-diameter-of-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/KartikSuchak/LeetCode-365/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/KartikSuchak/LeetCode-365/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1265,6 +1269,7 @@ I use this space to track my progress and organize my solutions.
 | [0111-minimum-depth-of-binary-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/KartikSuchak/LeetCode-365/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0226-invert-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/KartikSuchak/LeetCode-365/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/KartikSuchak/LeetCode-365/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/KartikSuchak/LeetCode-365/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KartikSuchak/LeetCode-365/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
