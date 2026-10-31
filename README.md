@@ -434,6 +434,7 @@ I use this space to track my progress and organize my solutions.
 | [0171-excel-sheet-column-number](https://github.com/KartikSuchak/LeetCode-365/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/KartikSuchak/LeetCode-365/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/KartikSuchak/LeetCode-365/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/KartikSuchak/LeetCode-365/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/KartikSuchak/LeetCode-365/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/KartikSuchak/LeetCode-365/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/KartikSuchak/LeetCode-365/tree/master/0344-reverse-string) |
@@ -1197,6 +1198,7 @@ I use this space to track my progress and organize my solutions.
 | [0089-gray-code](https://github.com/KartikSuchak/LeetCode-365/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/KartikSuchak/LeetCode-365/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/KartikSuchak/LeetCode-365/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/KartikSuchak/LeetCode-365/tree/master/0401-binary-watch) |
 | [0526-beautiful-arrangement](https://github.com/KartikSuchak/LeetCode-365/tree/master/0526-beautiful-arrangement) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KartikSuchak/LeetCode-365/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1256,6 +1258,7 @@ I use this space to track my progress and organize my solutions.
 | [0144-binary-tree-preorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/KartikSuchak/LeetCode-365/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0543-diameter-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/KartikSuchak/LeetCode-365/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/KartikSuchak/LeetCode-365/tree/master/1306-jump-game-iii) |
@@ -1304,6 +1307,7 @@ I use this space to track my progress and organize my solutions.
 | [0144-binary-tree-preorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/KartikSuchak/LeetCode-365/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0543-diameter-of-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -1322,6 +1326,7 @@ I use this space to track my progress and organize my solutions.
 | [0144-binary-tree-preorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KartikSuchak/LeetCode-365/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/KartikSuchak/LeetCode-365/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/KartikSuchak/LeetCode-365/tree/master/0543-diameter-of-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Shortest Path
