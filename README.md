@@ -335,6 +335,7 @@ I use this space to track my progress and organize my solutions.
 | [2574-left-and-right-sum-differences](https://github.com/KartikSuchak/LeetCode-365/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/KartikSuchak/LeetCode-365/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/KartikSuchak/LeetCode-365/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KartikSuchak/LeetCode-365/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KartikSuchak/LeetCode-365/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -770,6 +771,7 @@ I use this space to track my progress and organize my solutions.
 | [2501-longest-square-streak-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/2501-longest-square-streak-in-an-array) |
 | [2615-sum-of-distances](https://github.com/KartikSuchak/LeetCode-365/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KartikSuchak/LeetCode-365/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/KartikSuchak/LeetCode-365/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/KartikSuchak/LeetCode-365/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KartikSuchak/LeetCode-365/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -804,6 +806,7 @@ I use this space to track my progress and organize my solutions.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KartikSuchak/LeetCode-365/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/KartikSuchak/LeetCode-365/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/KartikSuchak/LeetCode-365/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2747-count-zero-request-servers](https://github.com/KartikSuchak/LeetCode-365/tree/master/2747-count-zero-request-servers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KartikSuchak/LeetCode-365/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3634-minimum-removals-to-balance-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/3634-minimum-removals-to-balance-array) |
 ## Stack
@@ -968,6 +971,7 @@ I use this space to track my progress and organize my solutions.
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2463-minimum-total-distance-traveled](https://github.com/KartikSuchak/LeetCode-365/tree/master/2463-minimum-total-distance-traveled) |
 | [2501-longest-square-streak-in-an-array](https://github.com/KartikSuchak/LeetCode-365/tree/master/2501-longest-square-streak-in-an-array) |
+| [2747-count-zero-request-servers](https://github.com/KartikSuchak/LeetCode-365/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/KartikSuchak/LeetCode-365/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/KartikSuchak/LeetCode-365/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/KartikSuchak/LeetCode-365/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
